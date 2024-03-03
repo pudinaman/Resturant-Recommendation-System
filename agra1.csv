@@ -1,0 +1,502 @@
+Restaurent name,Cuisine types,Rating,Price,Distance,Location,City
+Piazza Pizza By Little Italy,Pizza,3.9,₹200 for two,2.5 km,"Tajganj, Agra",Agra
+Marleys  The Milkshake,"Beverages, Desserts, Ice Cream, Shake, Burger, Sandwich",3.7,₹400 for two,3.7 km,"Tajganj, Agra",Agra
+Molecule Air Bar,"North Indian, Chinese, Continental, Italian",4.6,"₹2,000 for two",4.8 km,"Tajganj, Agra",Agra
+The Salt Cafe Kitchen & Bar,"North Indian, Continental, Chinese, Italian, Finger Food",4.9,"₹1,800 for two",3.8 km,"Tajganj, Agra",Agra
+Palm Burj,"North Indian, Chinese, Continental, Sushi, Sichuan, Beverages, Desserts",4.5,"₹2,200 for two",1.9 km,"Rakabganj, Agra",Agra
+Unplugged Courtyard,"Mediterranean, North Indian, Continental, Chinese, Mexican, Thai, Italian, Coffee",4.4,"₹1,600 for two",4.8 km,"Tajganj, Agra",Agra
+Hichkee,"Continental, North Indian, Chinese",4.2,"₹1,700 for two",1.2 km,"Civil Lines, Agra",Agra
+The Numberdaars,"Chinese, North Indian, Biryani, Mughlai, Kebab, Salad, Desserts, Beverages",4,₹800 for two,6.8 km,"Sikandra, Agra",Agra
+Barbeque Nation,"North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts",4.4,"₹1,550 for two",2.5 km,"Civil Lines, Agra",Agra
+The Nawaabs,"Mughlai, North Indian, Biryani, Kebab, Beverages",4.3,"₹1,100 for two",2.7 km,"Tajganj, Agra",Agra
+Oasis - Radisson Hotel Agra,"North Indian, Continental, Beverages",4.1,"₹2,700 for two",4.1 km,"Radisson Hotel Agra, Tajganj, Agra",Agra
+Biryani By Kilo,"Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts",4.4,"₹1,000 for two",3 km,"Civil Lines, Agra",Agra
+Masala Bistro,"Chinese, North Indian, Rolls, Kebab, Fast Food",3.7,₹350 for two,2.8 km,"Tajganj, Agra",Agra
+Cafe G - Holiday Inn,"North Indian, Continental, South Indian, Chinese, Asian, Italian",4.4,"₹3,000 for two",2.6 km,"Civil Lines, Agra",Agra
+Downtown Cafe,"North Indian, Mughlai, Continental, Chinese, Beverages, Desserts",4.9,"₹1,600 for two",1.4 km,"Rakabganj, Agra",Agra
+Pinch Of Spice,"North Indian, Chinese, Continental, Desserts, Beverages, Mughlai",4.5,"₹1,600 for two",3.2 km,"Tajganj, Agra",Agra
+Cosmos Cafe & Bar - Fairfield By Marriott,"Continental, North Indian, South Indian, Mughlai, Chinese, Fast Food, Desserts, Beverages",3.4,"₹2,400 for two",2.6 km,"Civil Lines, Agra",Agra
+My Bar Headquarters,"North Indian, Chinese, Pizza, Fast Food, Desserts",New,"₹1,200 for two",3.1 km,"Khandari, Agra",Agra
+Peshawri - ITC Mughal,"North Indian, Mughlai",4.5,"₹6,000 for two",3.2 km,"ITC Mughal, Tajganj, Agra",Agra
+Pind Balluchi,"North Indian, Mughlai, Chinese, Desserts",3.9,"₹1,100 for two",3.6 km,"Tajganj, Agra",Agra
+Two Saints Bar & Kitchen,"North Indian, Bar Food, Oriental, Continental, Italian, Chinese, Mexican, Desserts",4.3,"₹1,800 for two",2.4 km,"Tajganj, Agra",Agra
+Urban Deck,"Mexican, Italian, North Indian",4.2,"₹2,200 for two",2.7 km,"Civil Lines, Agra",Agra
+The Wok Bar,"Asian, Japanese, Sushi, Thai, Korean, Desserts",4.4,"₹2,400 for two",2.7 km,"Civil Lines, Agra",Agra
+Ek Number-Twisted Indian Cafe,"Chinese, North Indian, Continental, Mughlai, Italian, Kebab, Desserts, Beverages",3.8,"₹1,200 for two",3.4 km,"Civil Lines, Agra",Agra
+Made In Punjab,"North Indian, Mughlai, Biryani, Rolls, Chinese, Desserts, Beverages",4.6,"₹1,300 for two",2.7 km,"Civil Lines, Agra",Agra
+NU-CLER,"North Indian, Oriental, Asian, Mediterranean, Italian, Biryani, Fast Food",4.3,"₹2,000 for two",1.8 km,"Civil Lines, Agra",Agra
+MoMo Cafe - Courtyard By Marriott,"North Indian, Fast Food, Continental, Beverages, Asian",4.5,"₹3,000 for two",4.8 km,"Courtyard by Marriott Agra, Tajganj, Agra",Agra
+Folks Pub,"North Indian, Chinese",4.1,"₹1,400 for two",3.4 km,"Civil Lines, Agra",Agra
+Pind Balluchi,"Mughlai, North Indian",3.9,"₹1,000 for two",6.2 km,"Sikandra, Agra",Agra
+Thaliwala Pure Veg Restaurant,"North Indian, Chinese, Beverages",3.5,₹800 for two,3.4 km,"Tajganj, Agra",Agra
+Beep,"North Indian, Chinese, Continental, Pizza, Pasta",4.4,"₹1,200 for two",2.4 km,"Rakabganj, Agra",Agra
+Djlecious,"Bakery, Desserts, Beverages",4,₹400 for two,3.3 km,"Civil Lines, Agra",Agra
+Mama Chicken Mama Franky House,"North Indian, Mughlai, Rolls, Burger, Momos",4.1,"₹1,000 for two",2.2 km,"Agra Cantt, Agra",Agra
+KFC,"Burger, Fast Food, Biryani, Desserts, Beverages",3.6,₹500 for two,3 km,"Khandari, Agra",Agra
+La Pino'z Pizza,"Pizza, Pasta, Italian, Fast Food",3.3,₹500 for two,3.1 km,"Tajganj, Agra",Agra
+Momocult,"Momos, Chinese, Fast Food",3.8,₹200 for two,2.7 km,"Civil Lines, Agra",Agra
+Pizza Hut,"Pizza, Fast Food, Desserts, Beverages",3.9,"₹1,000 for two",2.4 km,"Agra Cantt, Agra",Agra
+Bistro 57,"Cafe, Pasta, Pizza, Burger, Coffee, Fast Food",3.9,₹600 for two,3.3 km,"Civil Lines, Agra",Agra
+Tease Me - Rooftop Cafe,"Italian, North Indian, Fast Food",4.3,"₹1,500 for two",2.2 km,"Tajganj, Agra",Agra
+McDonald's,"Burger, Fast Food, Beverages, Cafe",4,₹500 for two,2.7 km,"Civil Lines, Agra",Agra
+Fat Tiger,"North Indian, Rolls, Momos, Desserts, Shake, Coffee, Beverages",3.6,"₹1,100 for two",3.1 km,"Civil Lines, Agra",Agra
+La' Chef Multicuisine Restaurant,"North Indian, Chinese, Kebab, South Indian, Continental, Ice Cream, Beverages",-,"₹1,200 for two",7.2 km,"Sikandra, Agra",Agra
+Lord Of The Drinks,"European, Chinese, North Indian, Italian",4.1,"₹1,800 for two",4.8 km,"Tajganj, Agra",Agra
+Ghoomar Traditional Thali Restaurant,"North Indian, Rajasthani",3.3,"₹1,000 for two",4 km,"Khandari, Agra",Agra
+Hotel Moti Palace - Pankhuri Restaurant,"North Indian, Chinese, Continental, South Indian, Desserts, Beverages",4.2,"₹1,000 for two",1.4 km,"Rakabganj, Agra",Agra
+Dasaprakash,"South Indian, North Indian, Continental, Chinese, Beverages",3.8,₹800 for two,4.8 km,"Tajganj, Agra",Agra
+The Ivory Kitchen,"North Indian, Chinese, Pasta, Pizza, Sandwich, Fast Food, Desserts, Beverages",3.9,"₹1,100 for two",2.5 km,"Agra Cantt, Agra",Agra
+Spiced Brew,"Cafe, Continental, Burger, Sandwich, Fast Food, Beverages, Salad, Healthy Food",4.9,₹800 for two,3.6 km,"Khandari, Agra",Agra
+Fat Boys Cafe,"Sandwich, Pizza, Fast Food, Chinese, Momos, Pancake, Shake, Beverages",3.7,₹400 for two,2.3 km,"Agra Cantt, Agra",Agra
+Haldiram's,"North Indian, South Indian, Chinese, Fast Food, Street Food, Mithai, Beverages",4.2,₹400 for two,4 km,"Khandari, Agra",Agra
+Newcastle Cafe & Restaurant,"North Indian, Fast Food, Chinese, Kebab, Sushi, Seafood, Pizza, Pasta",4.4,"₹1,100 for two",5.8 km,"Sikandra, Agra",Agra
+Food Adda,"Burger, Pizza, Sandwich, Fast Food, Desserts, Beverages",3.9,₹400 for two,5.4 km,"Khandari, Agra",Agra
+The Mud Cafe,"Sandwich, Momos, Burger, Fast Food, Beverages, Desserts",3.3,₹700 for two,2.6 km,"Civil Lines, Agra",Agra
+Raj Rasoi,"North Indian, South Indian, Chinese, Street Food, Fast Food, Beverages, Shake",4.2,₹600 for two,2.6 km,"Civil Lines, Agra",Agra
+Sour N Spicy,"North Indian, Chinese, Street Food, Beverages, Desserts",3.9,"₹1,000 for two",2.2 km,"Tajganj, Agra",Agra
+Bellevue - The Oberoi Amarvilas,"North Indian, Continental, Desserts",4.2,"₹4,500 for two",3.3 km,"The Oberoi Amarvilas, Tajganj, Agra",Agra
+North 27,"North Indian, Chinese, Continental, Oriental, Fast Food, Mughlai, Beverages, Desserts",4,"₹3,800 for two",4.3 km,"DoubleTree by Hilton Hotel Agra, Tajganj, Agra",Agra
+Delhi 6,"North Indian, Street Food",4.1,₹150 for two,2.7 km,"Civil Lines, Agra",Agra
+Bhagat Halwai,"Mithai, Street Food, Pizza, Sandwich, Chinese, South Indian, Shake, Beverages",4.1,₹300 for two,3.3 km,"Civil Lines, Agra",Agra
+The Curry Station,"North Indian, Chinese, Mughlai",3.9,₹600 for two,3.2 km,"Lohamandi, Agra",Agra
+Chokho Jeeman Marwari Jain Bhojanalya,Rajasthani,4.3,₹400 for two,2.7 km,"Civil Lines, Agra",Agra
+Hotel Orange,"Chinese, North Indian, Mughlai, Biryani, Desserts, Beverages",4.6,"₹1,200 for two",1.8 km,"Rakabganj, Agra",Agra
+Lattice - Grand Mercure (An Accor Hotel),"North Indian, Continental, Chinese",3.9,"₹1,000 for two",3.8 km,"Crystal Sarovar Premier, Tajganj, Agra",Agra
+Domino's Pizza,"Pizza, Italian, Pasta, Fast Food, Desserts",3.9,₹500 for two,2.7 km,"Civil Lines, Agra",Agra
+Xero Degrees,"Cafe, Coffee, Beverages, Continental, Sandwich, Fast Food, Salad, Waffle",3.2,"₹1,000 for two",3.1 km,"Khandari, Agra",Agra
+Azuri,"North Indian, Chinese, Italian, Fast Food, Juices, Beverages",-,₹700 for two,3.5 km,"Kamla Nagar, Agra",Agra
+Sky Train Restaurant,"North Indian, Chinese, Fast Food, Beverages",4.1,₹800 for two,7 km,"Sikandra, Agra",Agra
+New Pizza King,"Pizza, Fast Food",3.8,₹500 for two,4.1 km,"Dayal Bagh, Agra",Agra
+UP 80 Resturant,"North Indian, Chinese, South Indian, Fast Food",3.9,₹200 for two,5.8 km,"Dayal Bagh, Agra",Agra
+GMB - Gopika Sweets & Restaurant,"North Indian, South Indian, Chinese, Fast Food, Street Food, Mithai",3.8,₹500 for two,2.7 km,"Tajganj, Agra",Agra
+AAAAR RESTRO,"Pizza, Fast Food",3.3,₹300 for two,3.7 km,"Kamla Nagar, Agra",Agra
+Aahar,"North Indian, South Indian, Chinese, Bakery, Continental, Desserts, Beverages",4,₹700 for two,2.7 km,"Civil Lines, Agra",Agra
+Bikaner Express,"North Indian, South Indian, Chinese, Street Food, Beverages",3.5,₹600 for two,3.6 km,"Kamla Nagar, Agra",Agra
+Achman Foods,"North Indian, South Indian, Street Food, Desserts, Beverages",4.1,₹400 for two,3.7 km,"Khandari, Agra",Agra
+Sheroes Hangout,"North Indian, Chinese, Fast Food",4.7,₹600 for two,4.1 km,"Tajganj, Agra",Agra
+Deviram Food Circle,"Mithai, Fast Food, Street Food, North Indian, Desserts, Shake",3.9,₹300 for two,7.2 km,"Sikandra, Agra",Agra
+Berco's - If You Love Chinese,"Chinese, Thai, Asian",4.3,"₹1,400 for two",2.5 km,"Civil Lines, Agra",Agra
+Pizza Cafe,"Pizza, Fast Food, Street Food, Desserts",New,₹400 for two,4.8 km,"Kamla Nagar, Agra",Agra
+Burger Farm,"Burger, Wraps, Fast Food, Beverages",-,₹900 for two,4.3 km,"Tajganj, Agra",Agra
+Capri Restaurant,"North Indian, Mughlai",3.5,₹850 for two,2.7 km,"Civil Lines, Agra",Agra
+The Mud Shakes,"Beverages, Shake, Waffle, Fast Food",4.1,₹200 for two,2.7 km,"Khandari, Agra",Agra
+Hello Anna,"South Indian, Chinese, Fast Food, Street Food, Ice Cream, Shake",3,"₹1,000 for two",6.2 km,"Sikandra, Agra",Agra
+The Indian Curry,"North Indian, Chinese, Oriental, Continental, Desserts, Beverages",3.9,"₹1,800 for two",3.1 km,"Kamla Nagar, Agra",Agra
+Subway,"Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages",3.9,₹400 for two,3.2 km,"Civil Lines, Agra",Agra
+The Mughal Room - Hotel Clarks Shiraz,"North Indian, Mughlai, Chinese, Beverages, Desserts",4.3,"₹2,600 for two",2.4 km,"Hotel Clarks Shiraz, Agra Cantt, Agra",Agra
+Taj Terrace - Hotel Taj Resorts,"North Indian, Continental, Chinese, Beverages, Desserts, Shake",4.2,"₹1,000 for two",3.3 km,"Tajganj, Agra",Agra
+Eight Herbs Café,"Cafe, Fast Food, Sandwich, Burger, Pizza, Momos, Waffle, Beverages",-,₹900 for two,2.6 km,"Civil Lines, Agra",Agra
+Fakira,"North Indian, Chinese, Continental, Fast Food, Beverages",4.2,"₹2,200 for two",5.6 km,"Lohamandi, Agra",Agra
+The Sky Restaurant,"North Indian, Chinese",3.9,₹800 for two,7 km,"Sikandra, Agra",Agra
+Burger King,"Burger, Fast Food, Beverages",3.8,₹350 for two,4 km,"Khandari, Agra",Agra
+Manoj Dhaba,North Indian,3.9,₹500 for two,3.8 km,"Dayal Bagh, Agra",Agra
+Retro Thrill Cafe,"Fast Food, Pizza, Burger, Rolls, Chinese, North Indian, Biryani, Beverages",3.9,₹800 for two,5.8 km,"Sikandra, Agra",Agra
+Pushpak Misthan Bhandar and Sweet,"Mithai, Street Food",4.4,₹100 for two,1.3 km,"Mantola, Agra",Agra
+Gopaldas Pethe Wale,"Mithai, Street Food",3.5,₹250 for two,3.5 km,"Tajganj, Agra",Agra
+The Waffle Co.,"Waffle, Sandwich, Bakery, Shake, Coffee, Beverages",New,₹400 for two,2.5 km,"Civil Lines, Agra",Agra
+Henry's The English Pub - Radisson Hotel Agra,"Continental, Fast Food, Desserts",3.9,"₹3,400 for two",4.2 km,"Radisson Hotel Agra, Tajganj, Agra",Agra
+Starbucks Coffee,"Cafe, Coffee, Fast Food",-,₹900 for two,4.3 km,"Tajganj, Agra",Agra
+Deviram Sweets & Restaurant,"Mithai, North Indian, Fast Food, Beverages, Desserts, South Indian",4.2,₹650 for two,1.8 km,"Rakabganj, Agra",Agra
+Sardar G Malai Chaap Junction,"North Indian, Rolls, Momos",3.8,₹300 for two,2.6 km,"Civil Lines, Agra",Agra
+Mughal Pavilion - ITC Mughal,"North Indian, Chinese, Continental",4,"₹2,500 for two",3.1 km,"ITC Mughal, Tajganj, Agra",Agra
+De Eros Cafe,"Cafe, Coffee",-,₹300 for two,4.9 km,"Shahganj, Agra",Agra
+Manoj Restaurant,"South Indian, Chinese, North Indian",4.1,₹300 for two,546 m,"Mantola, Agra",Agra
+Merry Go Round,"North Indian, Chinese, Continental, Fast Food",3,"₹1,300 for two",4.5 km,"Hotel Pushp Villa, Tajganj, Agra",Agra
+Cake Wala,Bakery,3.6,₹300 for two,2.7 km,"Agra Cantt, Agra",Agra
+Temptation,"North Indian, Chinese, Fast Food",4.1,"₹1,000 for two",3.8 km,"Kamla Nagar, Agra",Agra
+Om Restaurant,"North Indian, Beverages",3.6,₹400 for two,2.5 km,"Agra Cantt, Agra",Agra
+Papa Ji Da Dhaba,North Indian,4.2,₹250 for two,2.7 km,"Civil Lines, Agra",Agra
+Theobroma,"Bakery, Desserts",-,₹300 for two,3.2 km,"Khandari, Agra",Agra
+Sarpanch,"North Indian, South Indian, Fast Food, Chinese, Coffee, Ice Cream",-,₹600 for two,2.8 km,"Civil Lines, Agra",Agra
+Dasaprakash - A South Indian Cafe,South Indian,3.3,₹800 for two,2.7 km,"Tajganj, Agra",Agra
+Golden China Restaurant,"Chinese, Rolls, North Indian, Mughlai, Biryani, Italian, Desserts, Beverages",3.7,"₹1,000 for two",3.5 km,"Tajganj, Agra",Agra
+Brijwasi  Sweets & Restaurant,"Mithai, North Indian, South Indian, Fast Food, Shake",3.7,₹350 for two,2.4 km,"Civil Lines, Agra",Agra
+Bhoji,"North Indian, Fast Food, Burger, Shake",3.7,₹350 for two,4 km,"Shahganj, Agra",Agra
+The Forest,"North Indian, Italian, Chinese",4,₹800 for two,5.5 km,"Sikandra, Agra",Agra
+Chatora Station Restaurant,"North Indian, Chinese, Fast Food, Mughlai",3.9,₹400 for two,5.6 km,"Gopal Pura, Agra",Agra
+Udupi Brindavan Vegetarian Restaurant,"South Indian, North Indian, Chinese",-,₹900 for two,3.3 km,"Kamla Nagar, Agra",Agra
+Australian Cafe Pizza,"Pizza, Burger, Fast Food",4.2,₹400 for two,3.9 km,"Shahganj, Agra",Agra
+Chimmanlal Puri Wale,"North Indian, Street Food, Mithai",3.8,₹300 for two,417 m,"Mantola, Agra",Agra
+Infini – The Sky Lounge - Taj Hotel & Convention Centre,"North Indian, Fast Food, Finger Food, Beverages",4,"₹2,800 for two",4.3 km,"Taj Hotel & Convention Centre, Tajganj, Agra",Agra
+Bhagat Halwai,"Mithai, North Indian, Street Food, Fast Food, Beverages",4,₹400 for two,4 km,"Shahganj, Agra",Agra
+Deepee,"South Indian, Continental, Ice Cream, Beverages, Fast Food",3.7,₹800 for two,1.7 km,"Rakabganj, Agra",Agra
+Wonder Terrace Bar & Kitchen,"North Indian, Continental, Finger Food, Beverages, BBQ",4,"₹3,500 for two",4.2 km,"Radisson Hotel Agra, Tajganj, Agra",Agra
+The Chapter Kitchen,"North Indian, Continental, Oriental, Pizza, Beverages",4,"₹1,200 for two",4 km,"Khandari, Agra",Agra
+Amritsari Kulcha Junction,"North Indian, Chinese, Rolls, Beverages",3.7,₹500 for two,2.7 km,"Civil Lines, Agra",Agra
+Maikhana – ITC Mughal,Finger Food,4.1,"₹2,000 for two",3.2 km,"ITC Mughal, Tajganj, Agra",Agra
+Masala Handi,"North Indian, Chinese, Fast Food, South Indian, Desserts",3,₹400 for two,2.7 km,"Civil Lines, Agra",Agra
+Romo's Bistro,"North Indian, Chinese, Fast Food, Momos, Rolls",2.7,₹600 for two,3.6 km,"Khandari, Agra",Agra
+Peshawri - ITC Mughal,"North Indian, Mughlai",4.5,"₹6,000 for two",3.2 km,"ITC Mughal, Tajganj, Agra",Agra
+Star Ultimate Pizza,"Fast Food, Pasta, Beverages",4,₹400 for two,3.3 km,"Tajganj, Agra",Agra
+Plush Bar,"Continental, Fast Food",3.9,"₹2,700 for two",4.3 km,"DoubleTree by Hilton Hotel Agra, Tajganj, Agra",Agra
+Gifi,"Burger, Sandwich, Fast Food, Waffle, Desserts, Shake, Beverages",New,₹300 for two,4.7 km,"Tajganj, Agra",Agra
+Tealogy,"Beverages, Shake, Sandwich, Fast Food, Street Food",4.6,₹400 for two,2.7 km,"Civil Lines, Agra",Agra
+Meet N Eat Onwheel,"North Indian, Chinese, Burger, Fast Food",-,₹300 for two,5.9 km,"Dayal Bagh, Agra",Agra
+New Agra Fast Food & Restaurant,"North Indian, South Indian",3.7,₹250 for two,3.3 km,"Tajganj, Agra",Agra
+Pizza King,"Pizza, Fast Food",New,₹450 for two,4.1 km,"Tajganj, Agra",Agra
+Costa Coffee,"Cafe, Coffee, Beverages, Bakery, Desserts",-,₹800 for two,3 km,"Civil Lines, Agra",Agra
+Cremeborne - Ice Creams and Desserts,"Bakery, Waffle, Ice Cream, Coffee, Shake",4,₹500 for two,4.4 km,"Khandari, Agra",Agra
+Bikanervala,"Mithai, North Indian, Chinese, South Indian, Fast Food, Desserts, Beverages",4,₹700 for two,3.5 km,"Tajganj, Agra",Agra
+Bhagat Halwai,"Mithai, Chinese, South Indian, Street Food, Fast Food, Desserts, Bakery",3.8,₹300 for two,4.5 km,"Dayal Bagh, Agra",Agra
+Jain Fast Food & Restaurant,"North Indian, South Indian, Chinese, Fast Food",-,₹450 for two,3.8 km,"Trans Yamuna, Agra",Agra
+C'est Chine - Jaypee Palace Hotel,Chinese,4.4,"₹2,500 for two",4.4 km,"Jaypee Palace Hotel, Tajganj, Agra",Agra
+Charlly Restaurant & Resort,"South Indian, Pizza, Burger, Chinese, Fast Food, Salad, Desserts, Beverages",New,₹300 for two,12.3 km,"Shahganj, Agra",Agra
+Bread N Mime Cafe,"Cafe, Fast Food, Burger, North Indian, Street Food, Beverages, Desserts",3.9,₹600 for two,4.4 km,"Tajganj, Agra",Agra
+Shree Ram Poori Wale,"North Indian, Street Food",3.8,₹100 for two,5.2 km,"Sikandra, Agra",Agra
+Joney's Place,"Biryani, Fast Food, North Indian, Chinese, Beverages",2.6,₹450 for two,2.4 km,"Tajganj, Agra",Agra
+MKOP,"Bakery, Desserts, Street Food, Rolls, Beverages",4.3,₹300 for two,2.7 km,"Civil Lines, Agra",Agra
+Hippo's Krates Cafe,"Chinese, Momos, Beverages, Fast Food",4,₹600 for two,3.7 km,"Tajganj, Agra",Agra
+Ram Babu Parathe Wale,"North Indian, South Indian, Chinese, Fast Food, Desserts",3.3,₹400 for two,8.7 km,"Sikandra, Agra",Agra
+Agarwal Chat Bhandhar,"Street Food, South Indian",4.1,₹150 for two,4.2 km,"Agra Cantt, Agra",Agra
+Bethakk,"Fast Food, Beverages",4.1,₹250 for two,1.3 km,"Rakabganj, Agra",Agra
+Al Zameer Restaurant,"North Indian, Mughlai",3.8,₹400 for two,1.9 km,"Mantola, Agra",Agra
+Jai Maa Bhawani Bhojanalya,North Indian,3,₹200 for two,4.6 km,"Trans Yamuna, Agra",Agra
+Bhagat Halwai,"Mithai, North Indian, Momos, Chinese, Street Food, Pizza, Fast Food",3,₹400 for two,7 km,"Sikandra, Agra",Agra
+Haldiram Food Court,North Indian,3.7,₹200 for two,3.1 km,"Civil Lines, Agra",Agra
+Nazeer Foods,"North Indian, Fast Food, Biryani",3,₹500 for two,2.8 km,"Civil Lines, Agra",Agra
+Pizza Delight Cafe And Restaurant,"Pizza, Fast Food",3.6,₹250 for two,6.3 km,"Trans Yamuna, Agra",Agra
+Red Chilli Cafe & Restaurant,"North Indian, Chinese, Street Food, Mughlai, South Indian, Fast Food, Beverages, Desserts",3.5,"₹1,400 for two",2.4 km,"Agra Cantt, Agra",Agra
+Maple Restaurant,"North Indian, Chinese, Rolls, Fast Food",3.5,₹500 for two,4 km,"Tajganj, Agra",Agra
+Aleem Restaurant,North Indian,-,₹350 for two,2.7 km,"Civil Lines, Agra",Agra
+The Restaurant - Trident Hotel,"North Indian, Chinese, Continental",4.2,"₹2,000 for two",4.3 km,"Trident Hotel, Tajganj, Agra",Agra
+Welcome Yadav Dhaba,North Indian,3.9,₹300 for two,3.3 km,"Lohamandi, Agra",Agra
+Cakery N Bakery,"Bakery, Desserts, Coffee, Sandwich, Fast Food, Burger",3.6,₹500 for two,4 km,"Tajganj, Agra",Agra
+Peppers Cafe & Kitchen,"Italian, Chinese, North Indian, Desserts, Shake",-,"₹1,000 for two",7.1 km,"Sikandra, Agra",Agra
+Chainess,"Street Food, Sandwich, Fast Food, Tea, Beverages",4.4,₹300 for two,2.8 km,"Civil Lines, Agra",Agra
+Gymlicious,"North Indian, Chinese, Fast Food, American, Beverages, Healthy Food",3.3,₹250 for two,4 km,"Khandari, Agra",Agra
+Agra Chat Cafe,Street Food,3.7,₹100 for two,2.7 km,"Tajganj, Agra",Agra
+Hotel Amar - Noorjahan Restaurant,"Bar Food, Chinese, Continental, South Indian, Fast Food, North Indian, Desserts, Beverages",3.9,₹900 for two,2.5 km,"Hotel Amar, Tajganj, Agra",Agra
+The Burger Company,"Burger, Fast Food, Momos, Pizza, Sandwich, Desserts, Beverages, Shake",3.4,₹500 for two,3.7 km,"Khandari, Agra",Agra
+Shree Bankey Bihari Misthan Bhandar,"Mithai, Street Food, South Indian, Chinese, Ice Cream, Desserts, Beverages",3.6,₹400 for two,3.6 km,"Trans Yamuna, Agra",Agra
+Shree Bankey Bihari Misthan Bhandar,"Mithai, Street Food",3.7,₹300 for two,3.9 km,"Kamla Nagar, Agra",Agra
+Brijbhog Misthan Bhandar & Restaurant,Mithai,-,₹200 for two,5.9 km,"Sikandra, Agra",Agra
+Urban Dhaba Sethi Wala,"North Indian, Fast Food, Burger, Shake, Beverages",3.5,₹250 for two,4.9 km,"Tajganj, Agra",Agra
+Sri Dauji Mishthan Bhandar,"Mithai, North Indian",3.3,₹350 for two,2.4 km,"Civil Lines, Agra",Agra
+Pandit Dhaba,North Indian,3.4,₹300 for two,4.6 km,"Dayal Bagh, Agra",Agra
+Hyderabadi Dum Biryani Point,"Biryani, Chinese",3.5,₹400 for two,4.4 km,"Arjun Nagar, Agra",Agra
+Pizza House Family Restaurant,"South Indian, North Indian, Fast Food, Chinese, Pizza, Beverages",3,₹400 for two,5.5 km,"Agra Cantt, Agra",Agra
+Udupi Brindavan,"South Indian, North Indian",3.4,₹600 for two,2.7 km,"Tajganj, Agra",Agra
+Social Attitude,"North Indian, Fast Food, Healthy Food",3.9,₹400 for two,3.3 km,"Lohamandi, Agra",Agra
+Red Grill,"North Indian, Chinese, Mughlai",3.4,₹400 for two,5.5 km,"Dayal Bagh, Agra",Agra
+Rockstar Cafe,"Chinese, North Indian, Fast Food, Desserts, Beverages",3.2,₹400 for two,6.3 km,"Kuberpur, Agra",Agra
+3C's Cafe,"Fast Food, Beverages, Shake, Burger, Momos, Coffee, Cafe",4.3,₹700 for two,2.7 km,"Civil Lines, Agra",Agra
+Cake & More,"Bakery, Fast Food, Ice Cream, Desserts, Beverages",3.5,₹300 for two,2.5 km,"Tajganj, Agra",Agra
+Taj Mahal Restaurant,"North Indian, Mughlai, Chinese, Fast Food, Desserts, Beverages",3.2,"₹1,000 for two",3.4 km,"Tajganj, Agra",Agra
+Lobby Bar - Holiday Inn,Bar Food,3.9,"₹2,400 for two",2.6 km,"Civil Lines, Agra",Agra
+Skydeck - The Gateway Hotel,"North Indian, Chinese, Continental",3.7,"₹5,500 for two",3.1 km,"The Gateway Hotel, Tajganj, Agra",Agra
+Pizza In Pizza,"Pizza, Fast Food",-,₹400 for two,8.3 km,"Gopal Pura, Agra",Agra
+Churros,"Cafe, Coffee, Bubble Tea, Fast Food, Waffle",New,₹350 for two,3.8 km,"Kamla Nagar, Agra",Agra
+Chaska Restaurant,"North Indian, Chinese, South Indian, Desserts, Ice Cream, Pizza, Beverages, Fast Food",3.6,"₹1,000 for two",3.8 km,"Kamla Nagar, Agra",Agra
+Agarwal Food Court,"South Indian, Chinese, Fast Food, Street Food, Beverages, North Indian",4,₹600 for two,2.5 km,"Agra Cantt, Agra",Agra
+Anise,"North Indian, Kebab, Biryani, Desserts",4.5,"₹2,000 for two",4.8 km,"Tajganj, Agra",Agra
+The Royal Dining Restaurant,"North Indian, Chinese, Continental, South Indian, Oriental, Desserts, Beverages, Italian",4.6,"₹1,000 for two",4 km,"Tajganj, Agra",Agra
+Tareef Restaurant,North Indian,3.1,₹350 for two,1.8 km,"Mantola, Agra",Agra
+Chia Taj View Cafe,"Coffee, Fast Food",-,₹500 for two,2.6 km,"Tajganj, Agra",Agra
+2ND Wife,"North Indian, Fast Food, Beverages, Shake",3.2,₹250 for two,1.7 km,"Agra Cantt, Agra",Agra
+Atlantic Foods,"Bakery, Desserts, Fast Food, Beverages",4.1,₹400 for two,2.7 km,"Civil Lines, Agra",Agra
+Public Restaurant,"North Indian, Mughlai",3.4,₹800 for two,4.3 km,"Tajganj, Agra",Agra
+Hotel Solitaire,"North Indian, South Indian, Chinese, Desserts, Fast Food",4.1,₹600 for two,2.5 km,"Civil Lines, Agra",Agra
+Rambabu Ke Parathe,North Indian,3.9,₹300 for two,6.4 km,"Tajganj, Agra",Agra
+Thor The Party World,"North Indian, Continental, Mughlai",-,"₹1,500 for two",5.9 km,"Tajganj, Agra",Agra
+Deviram Food Circle,"Mithai, Chinese, South Indian, Street Food, Fast Food",3,₹450 for two,4.2 km,"Dayal Bagh, Agra",Agra
+Tea'se Coffee - The Tamala Tree,"North Indian, Chinese, Sushi, Salad",-,"₹1,500 for two",4.6 km,"Tajganj, Agra",Agra
+D'zurt Cafe,"Cafe, Fast Food, Burger, Sandwich, Wraps, Momos, Desserts, Street Food",4.1,₹800 for two,3.8 km,"Kamla Nagar, Agra",Agra
+Sattolala Food Court,"North Indian, Mithai, Fast Food",3.5,₹300 for two,3.4 km,"Shahganj, Agra",Agra
+Tipsy Grill,"Burger, Fast Food, Desserts, Waffle, Beverages",3.2,₹400 for two,4.4 km,"Khandari, Agra",Agra
+Dev Sagar Hotel And Restaurant,"North Indian, Chinese, Pizza, Fast Food",New,₹300 for two,8.4 km,"Sikandra, Agra",Agra
+Shri Tirupati No.1 Family Restaurant,"North Indian, South Indian, Fast Food",4,₹300 for two,5.6 km,"Sikandra, Agra",Agra
+Veer Ji Malai Chaap Wale,"Chinese, North Indian, Fast Food, Momos, Rolls, Biryani",3.5,₹500 for two,6.6 km,"Sikandra, Agra",Agra
+MCD Non Veg King,"North Indian, Chinese, Rolls",-,₹450 for two,3.5 km,"Tajganj, Agra",Agra
+Hari Chatni Restaurant,"Chinese, Wraps, Fast Food, North Indian, Mughlai, Biryani",3.9,₹600 for two,3.3 km,"Civil Lines, Agra",Agra
+Al Baik,"Fast Food, Burger, Pizza, Sandwich",-,₹400 for two,3.8 km,"Arjun Nagar, Agra",Agra
+Biryani & Kebab by Zahid Foods,"North Indian, Biryani, Lebanese, Mughlai, Chinese, Desserts",-,"₹1,000 for two",3.5 km,"Tajganj, Agra",Agra
+Goli Vada Pav No. 1,Street Food,4,₹100 for two,7 km,"Sikandra, Agra",Agra
+Jain Restaurant,"North Indian, South Indian",4.2,₹500 for two,3.3 km,"Shahganj, Agra",Agra
+Mansion- Tapas & CL Club,"North Indian, Asian, Italian, Chinese, Sushi, Biryani, Desserts, Beverages",3.9,"₹3,500 for two",1.8 km,"Rakabganj, Agra",Agra
+Bapu Dhaba,North Indian,3.2,₹400 for two,4.1 km,"Kuberpur, Agra",Agra
+Spicy Cottage Cafe & Restaurant,"South Indian, Pizza, Sandwich, Fast Food, Shake, Chinese, Beverages",-,₹300 for two,7.9 km,"Sikandra, Agra",Agra
+Apna Zaika Restaurant & Cafe,"North Indian, South Indian, Chinese, Street Food, Pizza, Burger, Fast Food, Shake",New,₹300 for two,4 km,"Khandari, Agra",Agra
+Play Safari Cafe,"Italian, Chinese, North Indian, Beverages",4.5,₹500 for two,2.9 km,"Civil Lines, Agra",Agra
+Lakshmi Vilas,"South Indian, Chinese, Tea, Shake, Desserts",3.9,₹500 for two,2.4 km,"Agra Cantt, Agra",Agra
+Ram Chinese Food Corner,Chinese,-,₹300 for two,2.5 km,"Civil Lines, Agra",Agra
+Waffle World,"Waffle, Desserts, Beverages",-,₹400 for two,5.7 km,"Lohamandi, Agra",Agra
+Liquid Lounge Bar - Taj Hotel & Convention Centre,Finger Food,4.3,"₹2,500 for two",4.3 km,"Taj Hotel & Convention Centre, Tajganj, Agra",Agra
+Food Stock Xchange,"Chinese, Rolls, North Indian, Biryani, Mughlai, Fast Food",4,"₹1,000 for two",3.8 km,"Tajganj, Agra",Agra
+Sky Grill - Grand Mercure (An Accor Hotel),"North Indian, Continental, Beverages",4.2,"₹3,200 for two",3.8 km,"Crystal Sarovar Premier, Tajganj, Agra",Agra
+Bullet Adda,"Continental, Fast Food, Beverages, Desserts, North Indian, Chinese",4.1,"₹1,300 for two",6.3 km,"Sikandra, Agra",Agra
+Mama  Bhojanalya,"Healthy Food, North Indian, Fast Food",-,₹400 for two,4.8 km,"Kamla Nagar, Agra",Agra
+Yadav Dhaba,North Indian,4,₹200 for two,2.8 km,"Lohamandi, Agra",Agra
+Kuvira Tea And Cafe,"Burger, Pizza, Sandwich, Fast Food, Street Food, Tea, Shake, Beverages",-,₹200 for two,3.9 km,"Trans Yamuna, Agra",Agra
+Bistro OG,"Pizza, Burger, Sandwich, Fast Food, Street Food, Ice Cream, Shake, Beverages",-,₹350 for two,4.4 km,"Tajganj, Agra",Agra
+What The Food,"Chinese, Rolls, Momos, Burger, Fast Food, Shawarma",3.5,₹400 for two,3.5 km,"Civil Lines, Agra",Agra
+Chimmanlal Puri Wale-Chhoti Dukaan,"North Indian, Street Food",4.7,₹200 for two,417 m,"Mantola, Agra",Agra
+D Jail House Restaurant,"Awadhi, Chinese, Mughlai, North Indian, Beverages",3.9,"₹1,000 for two",7.2 km,"Sikandra, Agra",Agra
+Agarwal Restaurant Sweets And Dairy,"North Indian, South Indian, Fast Food, Desserts, Chinese, Beverages",4,₹500 for two,6 km,"Shahganj, Agra",Agra
+Sips And Bites,"Sandwich, Burger, Pizza, Fast Food, Shake, North Indian",3.8,₹300 for two,3.2 km,"Lohamandi, Agra",Agra
+Sher - E - Punjab Restaurant,North Indian,4.1,₹600 for two,3.3 km,"Kamla Nagar, Agra",Agra
+Deviram Sweets & Food Plaza,"Mithai, North Indian, Fast Food, Chinese, South Indian, Biryani",4,₹450 for two,4 km,"Tajganj, Agra",Agra
+Krishiv Khana Khazana,"North Indian, Chinese, South Indian, Fast Food, Shake, Beverages",New,₹350 for two,4.8 km,"Dayal Bagh, Agra",Agra
+Tomars Hygiene Kitchen,"North Indian, Mughlai",4.1,₹600 for two,3.2 km,"Tajganj, Agra",Agra
+Soami's Rasoi,"North Indian, Chinese, Fast Food, South Indian",4.2,"₹1,000 for two",4 km,"Dayal Bagh, Agra",Agra
+Tirupati's Dosa Factory,"South Indian, Chinese, Beverages",4.1,₹500 for two,3.1 km,"Civil Lines, Agra",Agra
+Tapas - Jaypee Palace Hotel,"North Indian, Finger Food, Bar Food, Beverages",3.9,"₹2,000 for two",4.4 km,"Jaypee Palace Hotel, Tajganj, Agra",Agra
+Apna Zaika Restaurant And Cafe,"North Indian, South Indian, Chinese, Pizza, Fast Food, Street Food, Shake, Beverages",New,₹300 for two,4 km,"Khandari, Agra",Agra
+Awadhi Foods,"North Indian, Rolls, Mughlai",4.2,₹400 for two,2.5 km,"Civil Lines, Agra",Agra
+BON BARBECUE,"North Indian, Chinese, Continental, Seafood, Desserts",4.2,"₹1,600 for two",4.2 km,"Tajganj, Agra",Agra
+Mero Vrindavan Fast Foods,Fast Food,New,₹300 for two,2.3 km,"Lohamandi, Agra",Agra
+3 Idiots Family Restaurant,"North Indian, Chinese, Pizza, Fast Food, Street Food, Beverages",New,₹400 for two,4.4 km,"Gopal Pura, Agra",Agra
+Moon Light Punjabi Restaurant,"North Indian, South Indian, Chinese",4.1,₹300 for two,7.3 km,"Sikandra, Agra",Agra
+Shree Balaji Maharaj Dhaba & Family Restaurant,North Indian,New,₹300 for two,3.8 km,"Trans Yamuna, Agra",Agra
+Hotel Jai Hind & Restaurant,"North Indian, Mughlai, Fast Food",4.3,₹500 for two,2.6 km,"Agra Cantt, Agra",Agra
+Rose Bud Cafe,"Fast Food, Pizza, Burger, Sandwich, Wraps, Pasta, Beverages, Bakery",-,₹400 for two,5.7 km,"Lohamandi, Agra",Agra
+Taj Bano - ITC Mughal,"Mughlai, North Indian",4.1,"₹3,000 for two",3.2 km,"ITC Mughal, Tajganj, Agra",Agra
+The Royal Bistro,"North Indian, Shake, Beverages",3.9,₹300 for two,3.3 km,"Civil Lines, Agra",Agra
+Yadav Dhaba,North Indian,3.3,₹350 for two,2.8 km,"Civil Lines, Agra",Agra
+The Park Restaurant,"North Indian, Chinese, Continental, Mughlai, Beverages, Biryani",3.5,₹800 for two,2.5 km,"Agra Cantt, Agra",Agra
+Sheesh Mahal - Mansingh Palace,"North Indian, Chinese, Continental",3.8,"₹1,800 for two",2.5 km,"Mansingh Palace, Tajganj, Agra",Agra
+Celebration Restaurant,"Chinese, North Indian, Street Food, South Indian, Desserts, Continental, Pizza, Beverages",3.9,"₹1,000 for two",3.9 km,"Kamla Nagar, Agra",Agra
+Ashoka Bar,North Indian,4.4,"₹1,000 for two",2.7 km,"Civil Lines, Agra",Agra
+Zaaki Crystal Club And restaurant,"North Indian, Beverages, Chinese, Street Food",-,₹600 for two,3.8 km,"Kamla Nagar, Agra",Agra
+Maa Vaishno Restaurant,North Indian,3.8,₹300 for two,5.4 km,"Tajganj, Agra",Agra
+Romo's Junction,"North Indian, Pizza, Chinese, Momos, Rolls",3.2,₹400 for two,7 km,"Sikandra, Agra",Agra
+The Charcoal Chimney Restaurant,"North Indian, Chinese, Fast Food",-,"₹1,100 for two",3.7 km,"Tajganj, Agra",Agra
+Mughchi Mughlai & Chinese,"North Indian, Mughlai",-,"₹1,000 for two",1.2 km,"Civil Lines, Agra",Agra
+Ravi Patties & Mocktail Point,Street Food,4.1,₹100 for two,3.3 km,"Lohamandi, Agra",Agra
+Sri Dauji's Chatpataa,"North Indian, South Indian, Chinese, Fast Food, Beverages, Desserts",3.9,₹500 for two,3.5 km,"Kamla Nagar, Agra",Agra
+Shalimar Dhaba Veg And Non Veg,"Mughlai, North Indian",-,₹500 for two,3.9 km,"Trans Yamuna, Agra",Agra
+Bhagat Halwai,"Mithai, Fast Food, North Indian",3.9,₹300 for two,4.6 km,"Khandari, Agra",Agra
+Shubh Anand Hi Anand Bhojnalaya,North Indian,3.6,₹250 for two,2.7 km,"Civil Lines, Agra",Agra
+Dosa Factory,South Indian,3.5,₹300 for two,6.9 km,"Sikandra, Agra",Agra
+Gyani Dhaba,North Indian,3.7,₹200 for two,5.9 km,"Dayal Bagh, Agra",Agra
+Sardar Ji Da Dhaba,North Indian,3.7,₹400 for two,3.4 km,"Agra Cantt, Agra",Agra
+Manohar Lal Daulat Ram Garg Gajak Wale,Mithai,4,₹300 for two,5.6 km,"Sikandra, Agra",Agra
+Ratan Pizza,"Pizza, Fast Food, Bakery",4,₹500 for two,3.3 km,"Khandari, Agra",Agra
+Spicy Wonder,"North Indian, Fast Food, Chinese, Continental",3.7,₹700 for two,3.3 km,"Kamla Nagar, Agra",Agra
+Level 4 Rooftop,"North Indian, Continental, Pizza, Asian, Beverages",4,₹600 for two,4.3 km,"Tajganj, Agra",Agra
+The Momo Corner,"Momos, Chinese, Beverages",4.2,₹300 for two,3.8 km,"Kamla Nagar, Agra",Agra
+THK- Tomars Hygiene Kitchen,"North Indian, Biryani, Chinese",3.9,₹900 for two,3.3 km,"Tajganj, Agra",Agra
+Pizza Hub,"Pizza, Fast Food",4.2,₹300 for two,4 km,"Shahganj, Agra",Agra
+Roofmates,"North Indian, Chinese, Kebab, Biryani, Fast Food, BBQ, Street Food",4.2,"₹1,100 for two",7.2 km,"Sikandra, Agra",Agra
+Jam House Cafe,"Cafe, Fast Food",3.9,₹500 for two,3.1 km,"Tajganj, Agra",Agra
+Daddy Plz,"North Indian, Fast Food, Chinese, Momos, South Indian, Shake, Beverages",3.8,₹400 for two,6.4 km,"Shahganj, Agra",Agra
+The Big Bun,"Fast Food, Burger, Desserts, Bakery",3.4,₹300 for two,3.6 km,"Civil Lines, Agra",Agra
+Pape Ka Dhabha,"North Indian, Mughlai",4.3,₹350 for two,910 m,"Mantola, Agra",Agra
+Shankara Vegis Restaurant,"North Indian, Fast Food, Desserts, Juices, Shake",3.2,₹400 for two,2.5 km,"Tajganj, Agra",Agra
+Kings Spoon - Bhawna Clarks Inn,"North Indian, Chinese, Continental",3.3,"₹1,500 for two",5.6 km,"Sikandra, Agra",Agra
+The Divine Delight,"Chinese, South Indian, Continental, North Indian, Beverages",3.7,"₹1,000 for two",4.6 km,"Khandari, Agra",Agra
+Cafe Coffee Day,"Cafe, Coffee, Tea, Fast Food, Desserts, Beverages, Sandwich, Shake",3.5,₹750 for two,2.8 km,"Civil Lines, Agra",Agra
+Onyx Bar,"Bar Food, Coffee",-,"₹3,500 for two",4.7 km,"Tajganj, Agra",Agra
+Tea Coffee And Snacks,"North Indian, Fast Food, Street Food, Beverages",4.1,₹400 for two,3.2 km,"Lohamandi, Agra",Agra
+Om Sai Food Court,"Fast Food, Street Food",3.7,₹100 for two,5.9 km,"Dayal Bagh, Agra",Agra
+The Bar- The Oberoi Amarvilas,"Bar Food, North Indian",-,"₹4,000 for two",3.2 km,"Tajganj, Agra",Agra
+Om Restaurant,"North Indian, South Indian",3.8,₹250 for two,1.5 km,"Rakabganj, Agra",Agra
+TOS - Taste Of Shawarma,"Shawarma, Fast Food",3.6,₹300 for two,3.3 km,"Civil Lines, Agra",Agra
+The Orbit Gastro Pub,"North Indian, Mughlai, Continental, Biryani, Chinese, Sushi, Momos, Desserts",New,"₹1,000 for two",7 km,"Sikandra, Agra",Agra
+Dilshad Biryani,Biryani,4.2,₹300 for two,1.8 km,"Mantola, Agra",Agra
+Esphahan - The Oberoi Amarvilas,"North Indian, Biryani, Desserts, Kebab",4.9,"₹5,800 for two",3.3 km,"The Oberoi Amarvilas, Tajganj, Agra",Agra
+Panchi Petha,Mithai,3.6,₹400 for two,4.4 km,"Tajganj, Agra",Agra
+Om Sai Ram Bhojnalaya,North Indian,3.5,₹200 for two,5.2 km,"Khandari, Agra",Agra
+The Greener Side,"Cafe, Fast Food, Burger, Sandwich, Desserts, Beverages, Waffle",-,₹600 for two,2.9 km,"Khandari, Agra",Agra
+First Floor Cafe,"Coffee, Shake, Desserts, Beverages",3.9,₹500 for two,3.9 km,"Khandari, Agra",Agra
+Good Vibes Cafe,"North Indian, Mughlai, Street Food, Fast Food, Continental, Desserts, Beverages",3.2,₹400 for two,3.8 km,"Tajganj, Agra",Agra
+Shayhub,"Fast Food, Beverages, Pizza, Sandwich",4,₹200 for two,3.8 km,"Kamla Nagar, Agra",Agra
+Cafe Double Shot,"Cafe, Coffee, Fast Food, Beverages, Chinese",4.2,₹600 for two,1.4 km,"Rakabganj, Agra",Agra
+Sapna Bar-Be-Que,"North Indian, Rolls, Beverages",3.9,₹500 for two,2.8 km,"Tajganj, Agra",Agra
+Om Bhojanalaya,North Indian,4,₹400 for two,2.5 km,"Agra Cantt, Agra",Agra
+Metro Bar,Bar Food,3.9,"₹1,500 for two",2.7 km,"Hotel Metro, Civil Lines, Agra",Agra
+Chota Mama Chicken & Mama Veg,"North Indian, Chinese, Rolls, Biryani, Mughlai",3.2,₹500 for two,7 km,"Sikandra, Agra",Agra
+New Pari Family Restaurant,North Indian,2.5,₹300 for two,7.6 km,"Sikandra, Agra",Agra
+Satkar Pastries,"Pizza, Desserts, Fast Food",3.8,₹400 for two,2.4 km,"Civil Lines, Agra",Agra
+Labbaik Chicken Corner,"North Indian, Mughlai",3.8,₹600 for two,1.8 km,"Mantola, Agra",Agra
+Qaisar Bagh Restaurant,"North Indian, Mughlai, Chinese, Continental, Fast Food",4,"₹1,400 for two",2.2 km,"Tajganj, Agra",Agra
+Hunger Point Cafe And Restaurant,"North Indian, Sandwich, Pizza, Burger, Rolls, Fast Food, Street Food, Beverages",4,₹300 for two,3.5 km,"Tajganj, Agra",Agra
+The Chef's Club,"North Indian, South Indian, Mughlai, Chinese, Continental, Fast Food, Desserts, Beverages",3.8,"₹1,100 for two",4.3 km,"Tajganj, Agra",Agra
+Cake & More,"Shake, Fast Food, Beverages, Pizza, Desserts",3.9,₹400 for two,3.9 km,"Kamla Nagar, Agra",Agra
+Nijam Khan Chicken Biryani Shop,Biryani,3.5,₹200 for two,5.3 km,"Agra Cantt, Agra",Agra
+The Tea Lounge - Jaypee Palace Hotel,Tea,3.8,"₹1,300 for two",4.2 km,"Jaypee Palace Hotel, Tajganj, Agra",Agra
+Ekaa Villa,North Indian,4.3,₹700 for two,4.3 km,"Tajganj, Agra",Agra
+Bhagwati Dhaba,North Indian,4,₹200 for two,9.7 km,"Sikandra, Agra",Agra
+Deviram Royal Restaurant,"North Indian, Chinese, Fast Food, Beverages, Continental",3.7,₹400 for two,1.8 km,"Rakabganj, Agra",Agra
+Sher-E-Punjab Dhaba,"North Indian, Beverages, Street Food",4.1,₹300 for two,4 km,"Tajganj, Agra",Agra
+Giani Ice Cream,"Desserts, Ice Cream",4.8,₹300 for two,2.5 km,"Agra Cantt, Agra",Agra
+Yadav Dhaba Purana,North Indian,3.9,₹300 for two,2.7 km,"Civil Lines, Agra",Agra
+Navratan Fast Food & Restaurant,"North Indian, South Indian, Fast Food, Shake, Street Food, Beverages",4.1,₹500 for two,4 km,"Khandari, Agra",Agra
+Anjali's Kitchen,"North Indian, Chinese, Fast Food",3.6,₹300 for two,8.4 km,"Sikandra, Agra",Agra
+Flavours Restaurant,"North Indian, Chinese, Fast Food, South Indian, Desserts",4.2,"₹1,000 for two",2.6 km,"Civil Lines, Agra",Agra
+Brijwasi Sweet House & Restaurant,"North Indian, Chinese, South Indian, Desserts, Mithai, Beverages",3.7,₹500 for two,2.5 km,"Agra Cantt, Agra",Agra
+First Chai,"Tea, Street Food, Fast Food, Shake",4,₹400 for two,7.7 km,"Sikandra, Agra",Agra
+Parinda Sky Disc And Lounge,"North Indian, Mughlai, Chinese, Fast Food",3.9,"₹1,500 for two",5.9 km,"Khandari, Agra",Agra
+Laziz Pizza,"Pizza, Burger, Fast Food",3.6,₹350 for two,3.3 km,"Civil Lines, Agra",Agra
+Pizza Star - The Italian Food Corner,"Pizza, Fast Food",3.8,₹400 for two,6.5 km,"Shahganj, Agra",Agra
+Pizza Pasta Day,"Pizza, Pasta, Fast Food, Beverages",3.8,₹300 for two,3.8 km,"Tajganj, Agra",Agra
+Baskin Robbins - Ice Cream Desserts,"Ice Cream, Desserts, Beverages",3.6,₹400 for two,4 km,"Khandari, Agra",Agra
+Sathvik Padukone South Indian Dosa Corner,South Indian,3.7,₹200 for two,3.2 km,"Agra Cantt, Agra",Agra
+Panchhi Petha Namkeen,"Mithai, Desserts",3.9,₹200 for two,8.7 km,"Tajganj, Agra",Agra
+The Briston Kitchen,"North Indian, Fast Food, Chinese, Momos",3.9,₹600 for two,3.5 km,"Tajganj, Agra",Agra
+Hotel Poonam Plaza,"North Indian, Chinese",4,"₹1,200 for two",4.1 km,"Dayal Bagh, Agra",Agra
+EATCO.,"North Indian, Fast Food, Mughlai, Rolls, Shawarma",3.6,₹350 for two,3.7 km,"Khandari, Agra",Agra
+Nandani Red Crystal Restaurant,"South Indian, North Indian, Chinese, Continental, Fast Food, Street Food, Beverages",4.1,₹450 for two,9.8 km,"Sikandra, Agra",Agra
+Goverdhan Bakery,"Bakery, Fast Food, Desserts",4.4,₹400 for two,3.1 km,"Shahganj, Agra",Agra
+Savoury Street Food,"South Indian, North Indian, Chinese, Shake",3.8,₹350 for two,4.2 km,"Shahganj, Agra",Agra
+Chizza & Pizza,"Pizza, Burger, Sandwich, Rolls, Pasta, Fast Food",3.9,₹500 for two,3.3 km,"Tajganj, Agra",Agra
+Ichchha Veg Biryani & Fast Food,Biryani,3.9,₹100 for two,5.7 km,"Lohamandi, Agra",Agra
+The Masterchef Restaurant,"Street Food, Fast Food, Italian",3.7,₹700 for two,2.5 km,"Tajganj, Agra",Agra
+Al Barkat Family Restaurant,"North Indian, Rolls, Chinese",-,₹700 for two,3.5 km,"Tajganj, Agra",Agra
+Talk Of The Town,"North Indian, Chinese, Pizza, Fast Food, Desserts, Beverages",3.6,"₹1,400 for two",2.7 km,"Kamla Nagar, Agra",Agra
+Kebab - E - Que,"Kebab, North Indian, Mughlai, Biryani, Desserts, Beverages",4.3,"₹3,000 for two",4.3 km,"DoubleTree by Hilton Hotel Agra, Tajganj, Agra",Agra
+Gaurav Chinese Corner,Chinese,4,₹150 for two,2.6 km,"Civil Lines, Agra",Agra
+Cake House,"Bakery, Fast Food, Beverages",3.6,₹400 for two,3.8 km,"Kamla Nagar, Agra",Agra
+Honeydew Restaurant,"North Indian, Chinese, South Indian, Street Food",4.1,₹400 for two,4.8 km,"Dayal Bagh, Agra",Agra
+Mama Mutton Chicken Bhandhar,North Indian,3.7,₹200 for two,5.1 km,"Khandari, Agra",Agra
+Wahid Biryani,"Biryani, North Indian, Mughlai",3.6,₹400 for two,2.2 km,"Tajganj, Agra",Agra
+Shree Dauji Sweets,"Mithai, Street Food, Fast Food, North Indian",4.1,₹200 for two,3.9 km,"Kamla Nagar, Agra",Agra
+Pandit Bhojnalaya,North Indian,3.4,₹350 for two,5.2 km,"Khandari, Agra",Agra
+Mark's Cafe,"Chinese, Fast Food, Waffle, Desserts, Shake",3.4,₹600 for two,2.6 km,"Civil Lines, Agra",Agra
+Playdium,"Fast Food, Chinese, Beverages, Shake, Desserts",3.6,₹500 for two,4.1 km,"Khandari, Agra",Agra
+Solanki Petiz,Fast Food,-,₹100 for two,5.1 km,"Tajganj, Agra",Agra
+Bhagat Halwai,"North Indian, Mithai, Street Food",2.9,₹500 for two,6.8 km,"Sikandra, Agra",Agra
+Anokhe Paratha,North Indian,3.8,₹200 for two,3 km,"Tajganj, Agra",Agra
+Rendezvous - Hotel Howard Plaza,"North Indian, Chinese, Continental, Mughlai, Desserts, Beverages",3.9,"₹2,000 for two",2.5 km,"Hotel Howard Plaza, Tajganj, Agra",Agra
+Culinary Junction By Udupi,"North Indian, South Indian, Continental, Beverages",4.2,₹800 for two,4.3 km,"Tajganj, Agra",Agra
+The Bar - Trident Hotel,Finger Food,3.9,"₹2,000 for two",4.3 km,"Trident Hotel, Tajganj, Agra",Agra
+Meet N Eat,"Fast Food, Chinese, Beverages",3.8,₹400 for two,5.8 km,"Dayal Bagh, Agra",Agra
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream","Shake, Beverages, Desserts, Ice Cream, Waffle, Healthy Food",3.3,₹400 for two,5.5 km,"Lohamandi, Agra",Agra
+Lights Out - Lounge & Roofpark,"Bar Food, Finger Food, North Indian, Chinese, Continental, BBQ, Italian",4.1,"₹1,400 for two",2.5 km,"Civil Lines, Agra",Agra
+Badlav Chai Point,"Fast Food, Beverages, Tea, Coffee, Burger, Shake, Sandwich",3.7,₹300 for two,2.6 km,"Civil Lines, Agra",Agra
+Bhagya Ratan Food Circle,"North Indian, South Indian, Street Food, Chinese",3.5,₹400 for two,7.2 km,"Sikandra, Agra",Agra
+Badlav Chai Point,"Tea, Coffee, Shake, Beverages, Pizza, Sandwich, Fast Food, Street Food",3.5,₹300 for two,4.3 km,"Gopal Pura, Agra",Agra
+Pushpak Misthan Bhandar Sweets And Snack,Mithai,-,₹300 for two,1.6 km,"Civil Lines, Agra",Agra
+Jenith Fast Food,"North Indian, South Indian, Continental",3,₹300 for two,600 m,"Mantola, Agra",Agra
+Gupta Ji Dhaba & Veg Briyani,North Indian,3.8,₹500 for two,7.2 km,"Sikandra, Agra",Agra
+Hangout - The Lounge Bar,"Finger Food, Chinese, North Indian, Oriental, Continental, Desserts, Beverages",3.9,"₹1,500 for two",5.6 km,"Lohamandi, Agra",Agra
+Tiwari Bombay Style Bhel And Panipuri,Street Food,3.8,₹100 for two,2.5 km,"Agra Cantt, Agra",Agra
+Silver Spoon,"North Indian, Chinese, Continental, Pizza",4.4,₹950 for two,4 km,"Tajganj, Agra",Agra
+Laziz Family Restaurant,North Indian,3.1,₹500 for two,1.9 km,"Mantola, Agra",Agra
+Khan Sahab Restaurant,"North Indian, Mughlai, Chinese, Biryani, Beverages",3.5,₹600 for two,2.5 km,"Tajganj, Agra",Agra
+Dandigul Food Circle,"Biryani, South Indian, Chinese, Street Food",4,₹200 for two,4.6 km,"Khandari, Agra",Agra
+Bansal Sweets,Mithai,3.9,₹250 for two,3.2 km,"Shahganj, Agra",Agra
+SUMAC - Hotel Royale Regent,"North Indian, Continental, Fast Food, Oriental, Desserts, Beverages",3.9,"₹1,400 for two",5.4 km,"Tajganj, Agra",Agra
+Chacha Ji Ka Dhaba,"North Indian, Mughlai",3.9,₹500 for two,2.8 km,"Lohamandi, Agra",Agra
+Bamboo Cafe,"North Indian, Chinese, Street Food, Sandwich, Fast Food",3,₹500 for two,3.8 km,"Tajganj, Agra",Agra
+Chennai Kings,"South Indian, Sandwich, Fast Food, Beverages, Desserts, Burger, Chinese",3.9,₹500 for two,4.1 km,"Dayal Bagh, Agra",Agra
+Pandit Bhojnalaya,"North Indian, South Indian, Chinese",3.8,₹350 for two,5.2 km,"Khandari, Agra",Agra
+Cafe Hideout,"North Indian, Chinese, Continental, Biryani, BBQ, Coffee, Pizza, Pasta",-,₹600 for two,5.7 km,"Sikandra, Agra",Agra
+Winni Cakes And More,"Bakery, Desserts, Pizza, Sandwich, Wraps, Pasta, Waffle",3.9,₹500 for two,7.5 km,"Sikandra, Agra",Agra
+Rolls Cavalry,"Fast Food, Rolls, Chinese, North Indian, Momos, Shake, Sichuan",4.5,₹200 for two,3.9 km,"Lohamandi, Agra",Agra
+Pandit Ji Bhojhnalaya,North Indian,3.3,₹300 for two,11 km,"Sikandra, Agra",Agra
+Desire Bakers,"Bakery, Desserts",4,₹300 for two,3.2 km,"Kamla Nagar, Agra",Agra
+Anna Samrat Restaurant,"South Indian, North Indian, Chinese, Ice Cream, Beverages",3.9,₹600 for two,3.8 km,"Kamla Nagar, Agra",Agra
+New Pushpak Misthan Bhandar,"Mithai, Street Food",3.7,₹400 for two,1.2 km,"Rakabganj, Agra",Agra
+Brijwasi Sweet House,"Mithai, Desserts",3.7,₹400 for two,5.9 km,"Dayal Bagh, Agra",Agra
+Jain Bhojnalaya,North Indian,3.8,₹200 for two,5.2 km,"Khandari, Agra",Agra
+Healthmafia,"North Indian, Fast Food, South Indian, Momos, Biryani",4.1,₹450 for two,3.9 km,"Trans Yamuna, Agra",Agra
+Deshraj Dhaba,"Mughlai, Biryani",3.9,₹400 for two,954 m,"Civil Lines, Agra",Agra
+Square 99 Scoops & Cafe,"Chinese, North Indian, Fast Food",3.9,₹300 for two,4.5 km,"Shahganj, Agra",Agra
+Apna Cafe,"Fast Food, Pizza, Street Food, Chinese, Desserts, Shake, Coffee, Beverages",3.4,₹400 for two,2.6 km,"Tajganj, Agra",Agra
+"Daawat-E-Nawab - Taj Hotel & Convention Centre, Tajganj","North Indian, Mughlai, Kebab, Biryani",4.3,"₹2,800 for two",4.3 km,"Taj Hotel & Convention Centre, Tajganj, Agra",Agra
+Pandit Ji Shudh Shakahari Bhojnalaya,North Indian,3.7,₹400 for two,4.6 km,"Dayal Bagh, Agra",Agra
+Shri Krishna Bhojanalaya,North Indian,3.3,₹400 for two,2.7 km,"Civil Lines, Agra",Agra
+Royal Rolls,"Rolls, Fast Food, Beverages, Pizza, Burger",3.7,₹350 for two,4.4 km,"Tajganj, Agra",Agra
+Hungernomia,"Burger, Fast Food, Pizza, Sandwich, Wraps, Beverages, Italian",3.9,₹500 for two,2.5 km,"Civil Lines, Agra",Agra
+Sri Dauji Restaurant,"Mithai, Street Food",3.6,₹300 for two,3.9 km,"Kamla Nagar, Agra",Agra
+Agarwal Sweets & Dairy,"Mithai, Street Food",3.8,₹250 for two,6 km,"Shahganj, Agra",Agra
+Munna Dhaba,North Indian,3.6,₹500 for two,3.9 km,"Arjun Nagar, Agra",Agra
+Spice Aroma,"North Indian, Fast Food, Beverages",3.5,₹300 for two,4.3 km,"Arjun Nagar, Agra",Agra
+Chatorelal Food Court,"South Indian, Chinese, Fast Food, Street Food, North Indian, Momos",2.7,₹250 for two,4 km,"Agra Cantt, Agra",Agra
+Momo Cartel,"Momos, Chinese, Shake",3.8,₹350 for two,5.8 km,"Sikandra, Agra",Agra
+Shiva Bhojnalaya,North Indian,2.7,₹300 for two,5.2 km,"Khandari, Agra",Agra
+Jawahar Hotel,North Indian,3.8,₹300 for two,3.8 km,"Dayal Bagh, Agra",Agra
+What The Frozen,"Italian, Continental, Pasta, Healthy Food, Shake, Burger, Sandwich, Wraps",3.8,₹350 for two,3.7 km,"Khandari, Agra",Agra
+New Vishal Dhaba,"Momos, Chinese, Street Food, South Indian, North Indian",3.9,₹450 for two,3.7 km,"Khandari, Agra",Agra
+Vada Pav King,"Fast Food, Street Food, Beverages",3.7,₹350 for two,4.1 km,"Shahganj, Agra",Agra
+Shiva Dhaba,"North Indian, Mughlai",3.8,₹500 for two,2 km,"Civil Lines, Agra",Agra
+Dear Shoppy,"Fast Food, Sichuan",4.1,₹200 for two,4.6 km,"Khandari, Agra",Agra
+Baba Chicken Mutton,"Mughlai, North Indian",4,₹500 for two,6.8 km,"Sikandra, Agra",Agra
+Shyam Ji Restaurant,"North Indian, Chinese, South Indian, Desserts, Ice Cream, Beverages",3.9,₹500 for two,3.8 km,"Arjun Nagar, Agra",Agra
+Taste Of Tongue,"North Indian, Fast Food, Chinese, Street Food, Beverages",4.3,₹200 for two,5.5 km,"Dayal Bagh, Agra",Agra
+Shivam Restaurant,"Fast Food, North Indian, Chinese, Desserts",3.3,₹350 for two,3.8 km,"Agra Cantt, Agra",Agra
+"Tea Lounge - Taj Hotel & Convention Centre, Tajganj","Cafe, Pizza, Beverages",3.4,"₹1,100 for two",4.3 km,"Taj Hotel & Convention Centre, Tajganj, Agra",Agra
+Dhaba 59,"North Indian, Chinese, Fast Food, Beverages",3.5,₹500 for two,5 km,"Tajganj, Agra",Agra
+Kerala Coast Thattukada,"Kerala, South Indian, Chinese, Biryani, Beverages",3.3,₹400 for two,2.3 km,"Agra Cantt, Agra",Agra
+Zorko,"Pasta, Burger, Pizza, Sandwich, Fast Food, Street Food, Shake, Beverages",-,₹300 for two,4 km,"Tajganj, Agra",Agra
+Selfie Restaurant,North Indian,3.7,₹300 for two,5.6 km,"Lohamandi, Agra",Agra
+Moti Palace Restaurant And Bar,"North Indian, Chinese",3.8,"₹1,000 for two",1.4 km,"Rakabganj, Agra",Agra
+Hashim Restaurant,North Indian,3.5,₹400 for two,4.8 km,"Shahganj, Agra",Agra
+Moon Bar & Restaurant,"North Indian, Street Food, South Indian",3.9,"₹1,400 for two",6.7 km,"Sikandra, Agra",Agra
+Formula Rossa,"South Indian, Rolls",-,₹300 for two,2.2 km,"Agra Cantt, Agra",Agra
+Chota Mama Chicken Mama Veg,"North Indian, Chinese, Rolls, Mughlai, Momos, Beverages",3,₹550 for two,4.1 km,"Shahganj, Agra",Agra
+Dharamraj Yadav Bhojnalya,North Indian,3.9,₹200 for two,2.8 km,"Civil Lines, Agra",Agra
+Dalchini Homemade Meals,"North Indian, Seafood, Biryani, Street Food",3.9,₹500 for two,6.3 km,"Dayal Bagh, Agra",Agra
+Punjabi Hut,"North Indian, Biryani, Mughlai",3.7,₹500 for two,3.3 km,"Shahganj, Agra",Agra
+Raj Restaurant,North Indian,3.9,₹250 for two,2.8 km,"Arjun Nagar, Agra",Agra
+Cheesy Bees,"Fast Food, Chinese, Italian, Pizza, Burger, Sandwich, Beverages",3,₹300 for two,4.6 km,"Khandari, Agra",Agra
+Diamond Restaurant And Bar,"North Indian, Mughlai, Rolls, Finger Food",3.9,₹800 for two,2.7 km,"Civil Lines, Agra",Agra
+Cafe Choco Craze,"Cafe, Shake, Beverages, Pizza, Momos, Fast Food, Waffle, Desserts",3.9,₹650 for two,5.9 km,"Shahganj, Agra",Agra
+Mor Mukut Mithai Wale,Mithai,3.6,₹250 for two,1.4 km,"Mantola, Agra",Agra
+Jeetu Dhaba,"North Indian, Mughlai",3.6,₹500 for two,3.2 km,"Kamla Nagar, Agra",Agra
+Haji Salim Sweet House,"Mithai, Desserts",3.9,₹400 for two,1.7 km,"Mantola, Agra",Agra
+Hotel Anjuman,"North Indian, Chinese, Street Food, Fast Food, Seafood, Biryani, Mughlai, Beverages",3.8,₹600 for two,3.2 km,"Kamla Nagar, Agra",Agra
+D Delite Vegetarian Restaurant,"North Indian, Chinese, South Indian, Fast Food",3.9,₹600 for two,2.8 km,"Civil Lines, Agra",Agra
+Beeryanee,"North Indian, Mughlai",4.2,₹500 for two,3.6 km,"Khandari, Agra",Agra
+Khanaa Khazanaa,"North Indian, Continental, Fast Food",4,₹400 for two,5.8 km,"Dayal Bagh, Agra",Agra
+New Laziz Chicken Briyani,Biryani,3.2,₹300 for two,3.9 km,"Shahganj, Agra",Agra
+Kings,"Burger, Sandwich, Rolls",3.9,₹200 for two,3.9 km,"Kamla Nagar, Agra",Agra
+Drunken Monkey,"Beverages, Juices, Shake, Coffee, Healthy Food, Drinks Only",3.6,₹450 for two,2.5 km,"Tajganj, Agra",Agra
+Baba Bakers,"Bakery, Pizza, Burger, Sandwich, Street Food",3.5,₹300 for two,8.9 km,"Sikandra, Agra",Agra
+Distil - The Lounge Bar,"Chinese, North Indian, Beverages",3.9,"₹1,600 for two",2.6 km,"Civil Lines, Agra",Agra
+New Gopal Dhaba,"North Indian, Chinese",3.7,₹300 for two,9.7 km,"Gopal Pura, Agra",Agra
+Tandoori Flames,"Rolls, North Indian, Momos, Pasta, Sandwich, Fast Food, Chinese",3.9,₹400 for two,4.7 km,"Tajganj, Agra",Agra
+AJ's Cafe & Bakery,"Bakery, Desserts, Fast Food, Pizza, Beverages",3.2,₹500 for two,2.4 km,"Agra Cantt, Agra",Agra
+Laxman Fast Food,Fast Food,3.5,₹200 for two,2.8 km,"Civil Lines, Agra",Agra
+20-20 Fast Food,"South Indian, Fast Food, Momos",3.9,₹150 for two,5.1 km,"Dayal Bagh, Agra",Agra
+Shri Kanha Foods,North Indian,3.5,₹300 for two,3.5 km,"Agra Cantt, Agra",Agra
+Jux Pux,"Fast Food, Shake, Waffle, Beverages",3.1,₹300 for two,2.7 km,"Civil Lines, Agra",Agra
+Xhale,"Chinese, Italian, Fast Food, Rolls, Beverages",3.9,₹500 for two,2.2 km,"Agra Cantt, Agra",Agra
+B&B Restro,"North Indian, South Indian, Fast Food, Chinese, Beverages, Street Food, Pizza, Pasta",3.8,₹500 for two,4.4 km,"Tajganj, Agra",Agra
+Mercury Cafe,"Cafe, Sandwich, Fast Food, Burger, Pizza, Desserts, Beverages",3.6,₹800 for two,4.4 km,"Tajganj, Agra",Agra
+Mothers Milkshakes,"Beverages, Fast Food, Desserts",3.9,₹300 for two,4.4 km,"Civil Lines, Agra",Agra
+The Greens Restaurant & Herbal Cafe,"North Indian, South Indian, Chinese, Continental",3.6,₹800 for two,1.5 km,"Rakabganj, Agra",Agra
+Street 36,"North Indian, Beverages",3.6,₹150 for two,2.7 km,"Khandari, Agra",Agra
+Brij Thali,North Indian,3.6,₹200 for two,1.6 km,"Civil Lines, Agra",Agra
+Agra Fast Food And Restaurant,"North Indian, South Indian",2.6,₹400 for two,3.3 km,"Tajganj, Agra",Agra
+Jawahar Hotel,North Indian,3.6,₹400 for two,4.2 km,"Dayal Bagh, Agra",Agra
+Shri Mangalam Dhabha,North Indian,3.6,₹500 for two,6.6 km,"Sikandra, Agra",Agra
+Hunger On Wheel Cafe,"Fast Food, Chinese, Desserts",3.8,₹300 for two,4.1 km,"Civil Lines, Agra",Agra
+Yo Yo Foods,"North Indian, Chinese, Pizza, Sandwich, Fast Food, Street Food, South Indian, Shake",3.7,₹400 for two,6.4 km,"Shahganj, Agra",Agra
+Mr Dosa,"South Indian, Chinese, Pizza, Sandwich, Fast Food, Street Food, Shake, Beverages",3.9,₹500 for two,2.4 km,"Agra Cantt, Agra",Agra
+Kathi Express,"Rolls, Shawarma, Kebab, Shake",3.8,₹200 for two,1.4 km,"Mantola, Agra",Agra
+Vada Pav King,"Maharashtrian, Street Food, Burger, Sandwich, Rolls, Fast Food, Beverages",3.5,₹350 for two,4.3 km,"Tajganj, Agra",Agra
+Paatra - Jaypee Palace Hotel,"North Indian, Mughlai",4.3,"₹3,000 for two",4.4 km,"Jaypee Palace Hotel, Tajganj, Agra",Agra
+Chai Janeman,"Shake, Beverages, Sandwich, Burger, Street Food, Fast Food",3,₹250 for two,7.8 km,"Sikandra, Agra",Agra
+Meals Cafe,"Fast Food, Pizza, Wraps, Sandwich",4.3,₹500 for two,3.5 km,"Civil Lines, Agra",Agra
+Barbeque Pizza Junction,"BBQ, Pizza, Burger, Wraps, Sandwich, Momos, Shake, Beverages",3.6,₹300 for two,2.2 km,"Civil Lines, Agra",Agra
+Momos Adda,"Street Food, Fast Food, Burger, Momos, Pizza",3.4,₹200 for two,6.3 km,"Sikandra, Agra",Agra
+Spice Kitchen,"North Indian, Chinese",3.8,₹800 for two,8.4 km,"Sikandra, Agra",Agra
+The Chamber - Kitchen & Taproom,"North Indian, Chinese, Italian, Fast Food, Beverages, Desserts",4,"₹1,200 for two",4.4 km,"Tajganj, Agra",Agra
+European Bakery,"Bakery, Desserts",3.7,₹300 for two,2.9 km,"Civil Lines, Agra",Agra
+Brijwasi Petha,Mithai,3.5,₹200 for two,1.6 km,"Rakabganj, Agra",Agra
+Prince Of Spice,"North Indian, Mughlai, Chinese",3.3,₹750 for two,4.3 km,"Tajganj, Agra",Agra
+Desi Masala,"Chinese, Fast Food",3.9,₹350 for two,1.2 km,"Rakabganj, Agra",Agra
+Agra Burger Club,"Burger, Fast Food, Sandwich, Pasta, Chinese, Beverages",3.3,₹400 for two,5 km,"Shahganj, Agra",Agra
+Shri Mohan Hotel,North Indian,3.1,₹300 for two,355 m,"Rakabganj, Agra",Agra
+Big Crust,"Pizza, Pasta, Shake, Desserts, Fast Food",3,₹500 for two,3.7 km,"Khandari, Agra",Agra
+Heart Of Taj Cafe,"North Indian, Mughlai, Chinese, Fast Food, Biryani, Street Food",2.9,₹400 for two,3.8 km,"Tajganj, Agra",Agra
+Amrut Restaurant,Chinese,3.1,₹300 for two,4.1 km,"Dayal Bagh, Agra",Agra
+Hotel Taj Plaza,"North Indian, Fast Food, Beverages, Chinese",3.6,₹500 for two,4.6 km,"Tajganj, Agra",Agra
+Pizza House Family Restaurant,"Pizza, Burger, Sandwich, Fast Food, Chinese, Shake, Beverages",3.4,₹350 for two,5.8 km,"Shahganj, Agra",Agra
+Karan Restaurant,"Chinese, North Indian, Fast Food, Continental, Beverages, Desserts",3.9,"₹1,200 for two",2.5 km,"Hotel Ganga Ratan, Tajganj, Agra",Agra
+Shivam Restaurant,"North Indian, Fast Food",3.8,₹500 for two,3.2 km,"Tajganj, Agra",Agra
+Tandoori Night,"North Indian, Fast Food, Chinese, South Indian, Rolls",3.8,₹600 for two,6.4 km,"Sikandra, Agra",Agra
+Freaky Burger,"Burger, Fast Food, Beverages, Pizza, Sandwich",3.4,₹450 for two,5.8 km,"Tajganj, Agra",Agra
+Best Cake Bakers,"Bakery, Fast Food, Desserts, Shake",3.5,₹400 for two,5 km,"Tajganj, Agra",Agra
+Wok To Fork,"Fast Food, Beverages",3.8,₹200 for two,2.4 km,"Civil Lines, Agra",Agra
+Arabian Bites,"Burger, Fast Food",3.5,₹250 for two,4.8 km,"Tajganj, Agra",Agra
+YED Foods,"North Indian, Fast Food",3.9,₹200 for two,3.2 km,"Civil Lines, Agra",Agra
+Banarasi Kitchen,"Street Food, Chinese, North Indian",3.9,₹500 for two,8.3 km,"Sikandra, Agra",Agra
+Chanchal Hotel,North Indian,2.9,₹300 for two,3.5 km,"Agra Cantt, Agra",Agra
+The Momo Heaven,"Fast Food, Momos, Beverages",3.5,₹250 for two,1.2 km,"Civil Lines, Agra",Agra
+The Global Savour,"North Indian, Chinese, Fast Food, Street Food",4,₹800 for two,3.8 km,"Tajganj, Agra",Agra
+Kitchen On Fire,"North Indian, Mughlai, Fast Food",3.3,₹500 for two,2.5 km,"Civil Lines, Agra",Agra
+Shri Anand  Sakahari Bhojan,North Indian,3.1,₹350 for two,2.7 km,"Civil Lines, Agra",Agra
+Tarachand Dhaba,North Indian,3.8,₹250 for two,1.1 km,"Civil Lines, Agra",Agra
+Chicken Point,"North Indian, Biryani, Rolls, Chinese",3.7,₹650 for two,6.3 km,"Trans Yamuna, Agra",Agra

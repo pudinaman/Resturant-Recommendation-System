@@ -1,0 +1,502 @@
+Restaurent name,Cuisine types,Rating,Price,Distance,Location,City
+UK Restaurants And Kitchens,"North Indian, Chinese, Biryani, Kebab",3.6,₹500 for two,4.5 km,"Mangal City Mall, Vijay Nagar, Indore",Indore
+Dopamine,"Asian, North Indian, Continental, Italian, Bar Food, Pizza, Sushi, Salad",4.5,"₹1,500 for two",5.3 km,"Vijay Nagar, Indore",Indore
+Epicentre - The Park,"Continental, Salad, Chinese, Asian, Italian, North Indian, Desserts, Beverages",4.2,"₹3,500 for two",8 km,"The Park, Indore",Indore
+House Of Malts,"North Indian, Chinese, Continental, Italian, Oriental, Bar Food, Beverages",3.8,"₹1,000 for two",5.6 km,"Vijay Nagar, Indore",Indore
+The Piano Project,"North Indian, Mughlai, Kebab, Biryani, Beverages",4.5,"₹2,000 for two",4.9 km,"Vijay Nagar, Indore",Indore
+Aqua - The Park,"North Indian, Asian, Continental, Oriental",4.5,"₹2,200 for two",8 km,"The Park, Indore",Indore
+Kabelo Veg Barbecues,"North Indian, Salad, Desserts, Beverages",4.3,"₹1,200 for two",4.5 km,"Vijay Nagar, Indore",Indore
+Flame By Fire & Smoke,"North Indian, Chinese, Seafood, Biryani, Oriental, Desserts",4.4,"₹1,000 for two",4.2 km,"Vijay Nagar, Indore",Indore
+Cream Centre,"North Indian, Chinese, Italian, Mexican, Fast Food, Ice Cream, Shake, Beverages",4.2,"₹1,400 for two",4.6 km,"Vijay Nagar, Indore",Indore
+Cravings - Sayaji Hotel,"North Indian, Chinese, Italian, Beverages",4.5,"₹1,800 for two",4.4 km,"Sayaji Hotel, Vijay Nagar, Indore",Indore
+Barbeque Nation,"North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts",4.3,"₹1,500 for two",2.3 km,"South Tukoganj, Indore",Indore
+The Creative Kitchen - Radisson Blu Hotel,"North Indian, Continental, Chinese, Asian, Desserts",4,"₹2,500 for two",5.5 km,"Radisson Blu Hotel, Vijay Nagar, Indore",Indore
+Fire & Smoke,"North Indian, Mughlai, Continental",4.9,"₹2,200 for two",8.9 km,"By Pass Road (North), Indore",Indore
+Revolution Indore,"North Indian, Continental, Fast Food, Pizza, Burger, Sandwich, Italian, Beverages",4.1,"₹2,000 for two",4.9 km,"Vijay Nagar, Indore",Indore
+The Cube - Hotel Effotel,"North Indian, Mughlai, Asian, Biryani, Desserts",4.9,"₹1,200 for two",5.5 km,"Hotel Effotel, Vijay Nagar, Indore",Indore
+Chopstick City - Sayaji Hotel,"Chinese, Asian, Beverages, Desserts",4.7,"₹1,800 for two",4.4 km,"Sayaji Hotel, Vijay Nagar, Indore",Indore
+Municipal,"North Indian, Continental",4.2,"₹1,500 for two",5.1 km,"Mangal City Mall, Vijay Nagar, Indore",Indore
+Mama Loca,"Pizza, Pasta, Italian, Continental, Shawarma, Middle Eastern, Lebanese, Greek",4.2,"₹1,000 for two",2.8 km,"New Palasia, Indore",Indore
+Indore Kitchen - Indore Marriott Hotel,"North Indian, Asian",4.2,"₹2,000 for two",4.2 km,"Indore Marriott Hotel, Vijay Nagar, Indore",Indore
+The Ashoka Hotel And Multi-Cuisine Restaurant,"North Indian, Chinese, Continental, Fast Food, Street Food, Salad, Shake, Beverages",4.2,₹700 for two,4.5 km,"Vijay Nagar, Indore",Indore
+Punjab Grill,"North Indian, Mughlai, Kebab, Biryani, Desserts",4.5,"₹2,500 for two",8.4 km,"By Pass Road (North), Indore",Indore
+Ni Hao - Radisson Blu Hotel,"Asian, Chinese, Thai, Desserts",4.4,"₹3,600 for two",5.5 km,"Radisson Blu Hotel, Vijay Nagar, Indore",Indore
+Alba Bistro,"North Indian, Cafe, Salad, Fast Food, Coffee, Pizza, Desserts, Shake",4.5,"₹1,200 for two",4.2 km,"Vijay Nagar, Indore",Indore
+Blue Salt & Coffee - Hotel Essentia,"North Indian, South Indian, Continental, Chinese, Fast Food, Street Food, Desserts, Beverages",3.8,"₹2,500 for two",4.9 km,"Khajrana, Indore",Indore
+Terazza,"Cafe, North Indian, Italian, Fast Food, Beverages",3.9,₹900 for two,4.2 km,"Vijay Nagar, Indore",Indore
+Bhopal Bake House And Cafe,"Bakery, Desserts, Continental, Fast Food, Street Food, Beverages",4.8,₹600 for two,3.9 km,"Old Palasia, Indore",Indore
+Sanchi - Pan Indian | Fine Dine,"North Indian, Mughlai, Chinese, Biryani, Desserts",3.8,"₹1,500 for two",4.4 km,"Sayaji Hotel, Vijay Nagar, Indore",Indore
+Farzi Café,"North Indian, Continental, Pizza, Bar Food, Biryani, Beverages, Desserts",4.3,"₹2,400 for two",4.9 km,"Vijay Nagar, Indore",Indore
+Mamagoto,Asian,4.5,"₹1,000 for two",8.5 km,"By Pass Road (North), Indore",Indore
+Pind Balluchi,"North Indian, Mughlai, Biryani, Kebab, Bar Food, Desserts, Beverages",4,"₹1,000 for two",5.1 km,"Vijay Nagar, Indore",Indore
+Hobnob Gourmet Cafébar,"Continental, Italian, North Indian, Bar Food, Salad, Beverages",4.4,"₹2,600 for two",5.7 km,"Infiniti Hotel, Vijay Nagar, Indore",Indore
+Ring Road Social,"North Indian, Chinese, Biryani, Pizza, Burger, Fast Food, Desserts, Beverages",4.5,"₹1,500 for two",5.6 km,"Vijay Nagar, Indore",Indore
+The State - Lounge Bar,"North Indian, Continental, Kebab, Chinese, Sandwich, Fast Food, Biryani, Desserts",4.2,"₹1,800 for two",5.3 km,"Vijay Nagar, Indore",Indore
+Ozone Wine & Dine,"North Indian, Continental, Mughlai, Kebab, Biryani, Fast Food, Desserts",3.8,"₹1,200 for two",4.9 km,"Khajrana, Indore",Indore
+Split Bean,"North Indian, Chinese, Pizza, Pasta, Fast Food, Ice Cream, Desserts, Shake",3.5,"₹1,000 for two",5.6 km,"MR 10 Road, Indore",Indore
+WOW! Momo,"Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts",4.1,₹350 for two,3.1 km,"Sapna Sangeeta, Indore",Indore
+Coriander Leaf - Pure Veg Restaurant,"Kathiyawadi, Gujarati, North Indian, Desserts",4.1,₹800 for two,2.9 km,"Geeta Bhavan, Indore",Indore
+Kava - Fairfield By Marriott,"Continental, North Indian, Mughlai, Chinese, Thai, Biryani, Desserts, Beverages",4,"₹2,000 for two",5.4 km,"Fairfield By Marriott, Indore",Indore
+One Asia - Indore Marriott Hotel,"Chinese, Asian, Sichuan",4.5,"₹2,000 for two",4.2 km,"Indore Marriott Hotel, Vijay Nagar, Indore",Indore
+Adam's Ale,"North Indian, Continental, Chinese, Italian",3.2,"₹1,400 for two",7.5 km,"By Pass Road (North), Indore",Indore
+Eden Unplugged,"North Indian, Italian",4.4,"₹1,900 for two",6.8 km,"Vijay Nagar, Indore",Indore
+Project Charcoal,"North Indian, Chinese, Biryani, Mughlai, Desserts",3.3,₹500 for two,6.1 km,"By Pass Road (South), Indore",Indore
+Taco Bell,"Mexican, Fast Food",3.6,₹500 for two,8.5 km,"By Pass Road (North), Indore",Indore
+Crazy Coffee,"Cafe, Coffee, Pizza, Sandwich, Wraps, Desserts, Tea, Shake",4,₹350 for two,4.6 km,"Vijay Nagar, Indore",Indore
+Little Monk,North Indian,4,"₹1,000 for two",6.2 km,"MR 10 Road, Indore",Indore
+Cafe Palette,"Cafe, Coffee, Fast Food, Healthy Food, Mexican, Italian, Beverages",4,₹800 for two,4.2 km,"Old Palasia, Indore",Indore
+S Cafe - Sheraton Grand Palace,"North Indian, South Indian, Continental, Italian, Asian, Desserts, Shake, Beverages",4.2,"₹2,300 for two",9.9 km,"Sheraton Grand Palace, Indore",Indore
+Skyhouse,"North Indian, Chinese, Asian, Continental, Italian, Seafood, Salad, Desserts",4.2,"₹2,000 for two",5 km,"Mangal City Mall, Vijay Nagar, Indore",Indore
+House Of Butler,"Chinese, Sushi, Pizza, Fast Food, Salad, North Indian, Mughlai, Pasta",3.6,"₹1,200 for two",7.4 km,"By Pass Road (South), Indore",Indore
+WOW! China,"Chinese, Oriental, Asian, Sichuan, Seafood, Momos",3.9,₹600 for two,4.8 km,"Vijay Nagar, Indore",Indore
+Love Over Coffee,"Cafe, Coffee, Italian, Desserts, Beverages",3.9,₹500 for two,4.8 km,"Vijay Nagar, Indore",Indore
+Hoku,Continental,3.9,"₹2,500 for two",8 km,"By Pass Road (North), Indore",Indore
+The G.T. Road,"North Indian, Desserts",3.9,"₹2,000 for two",8.4 km,"By Pass Road (North), Indore",Indore
+Little Italy,"Italian, Pizza, Pasta",4.4,"₹1,400 for two",4.9 km,"Vijay Nagar, Indore",Indore
+Agent Jack's Bar,"Bar Food, Pizza, Kebab, North Indian, Mughlai, Beverages",4.1,"₹1,000 for two",5.2 km,"Vijay Nagar, Indore",Indore
+Thyme And Whisk,North Indian,New,"₹1,400 for two",5.8 km,"Vijay Nagar, Indore",Indore
+Kake Di Hatti,"North Indian, Beverages",4.2,₹500 for two,2.7 km,"New Palasia, Indore",Indore
+Golden Aura Hotel,"North Indian, Chinese, Salad, Kebab, Desserts, Beverages",New,"₹1,000 for two",8 km,"Vijay Nagar, Indore",Indore
+Hill's View - Papaya Tree Hotel,"North Indian, Italian, Continental, Chinese, Oriental, Bar Food, Desserts, Beverages",4.4,"₹1,600 for two",12.1 km,"Papaya Tree Hotel, Indore",Indore
+Banger,"Continental, Asian, Bar Food, Beverages",3.9,"₹2,500 for two",5.8 km,"Vijay Nagar, Indore",Indore
+Go Bananas - Sayaji Hotel,"Italian, Mexican",4.1,"₹1,400 for two",4.4 km,"Sayaji Hotel, Vijay Nagar, Indore",Indore
+Zoku - Your Asian Fix,North Indian,New,₹200 for two,6.6 km,"By Pass Road (North), Indore",Indore
+Echidna Restobrew,"Mediterranean, Asian, Italian, North Indian, Mughlai, Biryani, Desserts, Beverages",3,"₹1,400 for two",7.1 km,"By Pass Road (North), Indore",Indore
+Angaraa,"North Indian, Chinese, Fast Food, Salad, Desserts, Beverages",3.1,₹800 for two,3.8 km,"Old Palasia, Indore",Indore
+Mr. Beans,"Cafe, Coffee, Tea, Shake, Italian, Continental, Salad, Desserts",4,₹800 for two,4.1 km,"Old Palasia, Indore",Indore
+Dhaba Junction,"North Indian, Mughlai, Kebab, Biryani",4.2,"₹1,000 for two",5.6 km,"Rajendra Nagar, Indore",Indore
+Biryani By Kilo,"Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts",4.4,₹600 for two,4.8 km,"Vijay Nagar, Indore",Indore
+Striker Pub & Kitchen,"Mexican, Italian, Asian, Sushi, North Indian, Bar Food, Desserts, Beverages",4.8,"₹2,200 for two",6.1 km,"Vijay Nagar, Indore",Indore
+Drinx Exchange,"Bar Food, North Indian, Chinese, Thai, Continental, Italian, Desserts, Beverages",4.3,"₹2,500 for two",4.2 km,"Vijay Nagar, Indore",Indore
+Bella Buono,"Continental, Mexican, Chinese, North Indian, Fast Food",3.8,"₹1,500 for two",5.4 km,"Vijay Nagar, Indore",Indore
+The Highgarden Cafe,"Fast Food, Chinese, Sandwich, Street Food, Pizza, Healthy Food, Juices, Beverages",3.8,"₹1,200 for two",3.5 km,"Old Palasia, Indore",Indore
+Ethyl Bar - Radisson Blu Hotel,"Bar Food, Continental, Beverages",4.4,"₹3,200 for two",5.5 km,"Radisson Blu Hotel, Vijay Nagar, Indore",Indore
+The Ground Baking Co.,"Cafe, Pizza, Waffle, Beverages",4.3,"₹1,200 for two",4.8 km,"Vijay Nagar, Indore",Indore
+Diet Dial,"Healthy Food, Salad, North Indian, South Indian, Fast Food",3.9,₹350 for two,3.2 km,"HIG-LIG, Indore",Indore
+Pizza Don,"Pizza, Pasta, Italian, Continental, Burger, Panini, Desserts, Beverages",4.5,"₹1,200 for two",4.8 km,"Vijay Nagar, Indore",Indore
+Moti Mahal Delux,"North Indian, Mughlai, Chinese, Kebab, Biryani, Oriental, Desserts, Beverages",4.4,"₹1,300 for two",7.4 km,"By Pass Road (South), Indore",Indore
+Hopin - Patio Cafe,"Cafe, Coffee, Beverages, Italian, Fast Food, Asian, North Indian, Desserts",3.3,"₹1,200 for two",2.9 km,"New Palasia, Indore",Indore
+Guru Kripa,"North Indian, Chinese, Pasta, Salad, Fast Food, Desserts, Beverages",3.3,"₹1,000 for two",7.5 km,"By Pass Road (South), Indore",Indore
+Patang - Hotel Daksh Residency,"North Indian, Kebab, Chinese, Salad, Continental, Sandwich, Desserts, Beverages",4.3,"₹1,000 for two",4.5 km,"Vijay Nagar, Indore",Indore
+WOW! Chicken by WOW! Momo,"American, Fast Food, Burger, Beverages",4.2,₹500 for two,8.5 km,"By Pass Road (North), Indore",Indore
+Plated - Bar & Kitchen,"North Indian, Mughlai, Chinese, Biryani, Seafood",3.9,"₹1,500 for two",8.4 km,"By Pass Road (North), Indore",Indore
+Bapu Ki Kutia,"North Indian, Chinese, Desserts",4,₹800 for two,3 km,"Sapna Sangeeta, Indore",Indore
+Meraki - The Creative Cuisine,"North Indian, Kebab, Chinese, Pizza, Italian, Salad, Beverages",4.4,"₹1,000 for two",5.3 km,"Vijay Nagar, Indore",Indore
+Araana - Sheraton Grand Palace,"North Indian, Desserts",3.9,"₹3,500 for two",9.7 km,"Sheraton Grand Palace, Indore",Indore
+Shreemaya Celebration,"North Indian, South Indian, Chinese, Continental, Fast Food, Beverages, Burger",4.6,₹850 for two,2.2 km,"Hotel Shreemaya, RNT Marg, Indore",Indore
+The Eighteen Fine Dine Lounge,"North Indian, Mughlai, Continental, Chinese, Italian, Sushi, Desserts, Beverages",4.4,"₹2,000 for two",4.4 km,"Vijay Nagar, Indore",Indore
+Cafe De Casa,"Cafe, Shake, Chinese, Italian, Mexican, North Indian, Desserts, Beverages",4.1,"₹1,100 for two",5.1 km,"Vijay Nagar, Indore",Indore
+Spruzzo The Gourmet Cafe,"Cafe, Coffee, Beverages, North Indian, Chinese, Pizza, Continental, Desserts",2.5,"₹1,000 for two",2.8 km,"New Palasia, Indore",Indore
+KFC,"Fast Food, Burger, Biryani, Beverages",4,₹450 for two,4.4 km,"Malhar Mega Mall, Vijay Nagar, Indore",Indore
+Kitchen Ministry,North Indian,3.8,"₹1,000 for two",2.1 km,"RNT Marg, Indore",Indore
+Fagun Restaurant,"North Indian, Chinese, Continental, Fast Food, Salad, Biryani",4.2,"₹1,200 for two",8.8 km,"Vijay Nagar, Indore",Indore
+Solitaire Restaurant,"North Indian, Mughlai, Biryani, Chinese, Salad, Beverages",4.2,"₹1,000 for two",4.4 km,"Vijay Nagar, Indore",Indore
+Indore Baking Company - Indore Marriott Hotel,"Fast Food, Bakery, Desserts, Beverages, Shake",4.6,"₹2,500 for two",4.2 km,"Indore Marriott Hotel, Vijay Nagar, Indore",Indore
+London Bubble Co.,"Waffle, Ice Cream, Shake",3.9,₹300 for two,4.7 km,"Vijay Nagar, Indore",Indore
+Firangi Cafe,"Continental, Pizza, Beverages, Sandwich",4.3,"₹1,000 for two",4.9 km,"Vijay Nagar, Indore",Indore
+Mocha,"Cafe, Continental, Italian, North Indian, Fast Food, Pizza, Desserts, Beverages",3.9,"₹1,200 for two",2 km,"YN Road, Indore",Indore
+Constellation - Hotel WOW CREST IHCL SELEQTIONS,"North Indian, Asian, Continental, Desserts, Beverages",4.1,"₹3,500 for two",4.6 km,"Hotel Wow, Vijay Nagar, Indore",Indore
+Mini Punjabi,"North Indian, Chinese",3.8,₹300 for two,2.2 km,"Manik Bagh Road, Indore",Indore
+Mitti - Organic Fresh Desi,"Cafe, Coffee, Beverages, North Indian, Continental, Chinese, Healthy Food, Desserts",4.1,"₹1,000 for two",3.4 km,"Old Palasia, Indore",Indore
+Atha,"North Indian, Chinese, Sichuan, Salad, Desserts, Beverages",New,"₹1,000 for two",10.7 km,"Rau, Indore",Indore
+Mediterra - Sayaji Hotel,"North Indian, Mughlai, Chinese, Continental, Italian, Salad, Biryani",4.7,"₹1,800 for two",4.4 km,"Sayaji Hotel, Vijay Nagar, Indore",Indore
+Alba Bistro,"North Indian, Continental",3.4,₹800 for two,8.9 km,"By Pass Road (North), Indore",Indore
+99 Kitchen & Co.,"Italian, Japanese, Continental, Fast Food, Desserts, Beverages",3.4,"₹1,000 for two",5.4 km,"Vijay Nagar, Indore",Indore
+Mate Connect Coffee,"Cafe, Coffee, Beverages, Fast Food",3.9,₹400 for two,4.3 km,"Vijay Nagar, Indore",Indore
+Funeats,"North Indian, Salad, Continental, Pizza, Italian, Asian, Desserts, Beverages",3.4,"₹1,000 for two",2.2 km,"Treasure Island Mall, South Tukoganj, Indore",Indore
+Cocktails & Dreams,"North Indian, Chinese, Continental, Italian, Oriental, Sushi, Biryani, Desserts",4.2,"₹3,000 for two",6.1 km,"Vijay Nagar, Indore",Indore
+Godwit,"Fast Food, Italian, South Indian, Chinese, North Indian, Desserts, Beverages",4,₹500 for two,6.9 km,"By Pass Road (North), Indore",Indore
+Banana Leaf,"South Indian, North Indian, Biryani, Desserts, Beverages",4.3,₹800 for two,4.4 km,"Malhar Mega Mall, Vijay Nagar, Indore",Indore
+The Monroe,"North Indian, Chinese, Fast Food, Desserts, Beverages, Italian",4.2,"₹1,000 for two",2.8 km,"New Palasia, Indore",Indore
+Tyger Tyger,Asian,New,"₹1,000 for two",5.7 km,"Vijay Nagar, Indore",Indore
+Simi's,Bakery,4.5,₹500 for two,4.9 km,"Vijay Nagar, Indore",Indore
+The Beer Cafe,"Bar Food, Italian, North Indian, Mexican, Finger Food, Fast Food",4.3,"₹1,500 for two",5.4 km,"Vijay Nagar, Indore",Indore
+Angrezi Desi,North Indian,3.9,"₹1,000 for two",8 km,"New Palasia, Indore",Indore
+Pizza Hut,"Pizza, Fast Food, Italian",3.7,₹600 for two,4.4 km,"Malhar Mega Mall, Vijay Nagar, Indore",Indore
+The Grill,"North Indian, Chinese",3.9,"₹1,000 for two",7.4 km,"Vijay Nagar, Indore",Indore
+Basil - Ramada Encore By Wyndham,"North Indian, Fast Food",-,"₹1,000 for two",8.3 km,"Vijay Nagar, Indore",Indore
+Jardin Hotel,"North Indian, Mughlai, Chinese, Seafood, Desserts",-,"₹1,000 for two",7.4 km,"Vijay Nagar, Indore",Indore
+Rail Coach Restaurant,"North Indian, Mughlai, Chinese, Oriental, Biryani, Fast Food, Street Food, Beverages",3.3,"₹1,300 for two",3.3 km,"Ranjeet Hanuman, Indore",Indore
+Bollywood Theka,"North Indian, Chinese, Fast Food, Biryani, Bar Food, Desserts, Beverages",4.4,"₹1,100 for two",5.8 km,"Infiniti Hotel, Vijay Nagar, Indore",Indore
+Yoi Toki,"Asian, Chinese, Pizza, Sushi, Desserts",3.3,"₹1,000 for two",2.3 km,"South Tukoganj, Indore",Indore
+Chang's Legacy,"Chinese, North Indian, Seafood, Sichuan, Asian",4.6,"₹1,000 for two",4.6 km,"Vijay Nagar, Indore",Indore
+Diners Park,"North Indian, Chinese, Salad, Fast Food, Desserts, Beverages",4,"₹1,000 for two",9.9 km,"Vijay Nagar, Indore",Indore
+Sheesha Sky Lounge,"North Indian, Mughlai, Arabian, Chinese, Seafood, Kebab, Biryani, Desserts",4.2,"₹1,500 for two",5.1 km,"Vijay Nagar, Indore",Indore
+Hotel Shreemaya,"North Indian, Mughlai, Chinese, Continental, Desserts, Beverages",4.5,"₹1,200 for two",2.2 km,"Hotel Shreemaya, RNT Marg, Indore",Indore
+Good Old Days - Hotel Effotel,"North Indian, Asian",4.9,"₹1,500 for two",5.5 km,"Hotel Effotel, Vijay Nagar, Indore",Indore
+Chai Kaapi,"Fast Food, North Indian, Street Food",3,₹400 for two,8 km,"By Pass Road (North), Indore",Indore
+Cafe Chapter One,"Cafe, Coffee, Italian, Fast Food, Pizza, Continental, Desserts, Beverages",4.3,₹750 for two,6.1 km,"Vijay Nagar, Indore",Indore
+Taaza Restaurant,"North Indian, Fast Food, Burger, Middle Eastern, Arabian, Shawarma, Salad, Grilled Chicken",3.8,₹550 for two,6.2 km,"Vijay Nagar, Indore",Indore
+Biggies Burger,"Burger, Wraps, Fast Food, Beverages",3,₹500 for two,8.5 km,"By Pass Road (North), Indore",Indore
+VegTawa Restaurant,"North Indian, Chinese, Kebab, Salad, Ice Cream, Desserts",4.2,₹700 for two,4.8 km,"Sudama Nagar, Indore",Indore
+GFC - Restaurant,"North Indian, Mughlai, Chinese, Kebab, Biryani, Desserts",4,"₹1,200 for two",7.1 km,"By Pass Road (North), Indore",Indore
+Shree Leela,"North Indian, Chinese, Biryani, Desserts, Beverages",4.1,₹700 for two,5.1 km,"Khajrana, Indore",Indore
+Monu Gyaniji Ka Dhaba,"North Indian, Chinese, Fast Food, Desserts, Beverages",3.8,₹350 for two,3.9 km,"Bhawar Kuan, Indore",Indore
+Kebabsville - Sayaji Hotel,"North Indian, Bar Food",4.9,"₹2,000 for two",4.4 km,"Sayaji Hotel, Vijay Nagar, Indore",Indore
+Absolute Coffee Brewers,"Cafe, Coffee, Continental, Fast Food, Bakery, Desserts, Tea, Shake",3.8,"₹1,000 for two",4.6 km,"Vijay Nagar, Indore",Indore
+Kaffee - La',"Cafe, Coffee, Tea, Beverages, Pizza, Sandwich, Salad, Bakery",3.7,₹600 for two,4.5 km,"Vijay Nagar, Indore",Indore
+Inizio,"Coffee, Italian, Beverages, Pizza, Asian, Salad, Sandwich, Pasta",3.5,"₹1,000 for two",2.7 km,"New Palasia, Indore",Indore
+Lord Petrick,"Cafe, Coffee, Burger, Fast Food, Shake, Beverages",-,₹600 for two,3.7 km,"Bhawar Kuan, Indore",Indore
+K Bhagat Tarachand,"North Indian, Biryani, Fast Food, Desserts",3.3,"₹1,000 for two",5.7 km,"Vijay Nagar, Indore",Indore
+Chaat Di Hatti,"Street Food, North Indian, Fast Food, Chinese, Waffle, Momos, Shake, Beverages",3.5,₹350 for two,9.2 km,"Rau, Indore",Indore
+Oye Pappe,"North Indian, Fast Food, Pizza, Pasta, Street Food, Shake, Beverages",3.2,₹550 for two,4.9 km,"MR 10 Road, Indore",Indore
+Pishori Restaurant,"North Indian, Mughlai, Kebab, Biryani, Chinese, Seafood",4,₹800 for two,3 km,"Sapna Sangeeta, Indore",Indore
+Nanaksar Dhaba,"North Indian, Chinese, Beverages",3.8,₹400 for two,4.9 km,"Vijay Nagar, Indore",Indore
+Hotel Rajhans,North Indian,4.1,₹400 for two,973 m,"Sarafa Bazaar, Indore",Indore
+Raja Ram Dhaba Sweets & Namkeen,"North Indian, Chinese, Mithai",4.3,₹300 for two,7 km,"Vijay Nagar, Indore",Indore
+Hotel Malwa Inn Tonicue the Bar Restaurant,"North Indian, Chinese, Mughlai, Kebab, Bar Food, Biryani, Fast Food, Beverages",4.5,"₹1,300 for two",7.5 km,"Rajendra Nagar, Indore",Indore
+Nafees Restaurant,"North Indian, Mughlai, Chinese, Kebab, Seafood, Biryani, Desserts, Beverages",4.1,"₹1,000 for two",3.2 km,"Old Palasia, Indore",Indore
+Paakasaala The Andhra Kitchen,"South Indian, Biryani, Andhra",3.9,₹350 for two,4.9 km,"Vijay Nagar, Indore",Indore
+Annie Bakers,"Pizza, Sandwich, Burger, Coffee",3.6,₹200 for two,4 km,"Sudama Nagar, Indore",Indore
+Maa Padmawati Restaurant by sri tirupati foods,North Indian,3.4,₹700 for two,6.6 km,"Vijay Nagar, Indore",Indore
+Nandri South Indian Cafe,"South Indian, Desserts, Beverages",3.2,₹500 for two,5.4 km,"Vijay Nagar, Indore",Indore
+The Chocolate Room,"Cafe, Coffee, Beverages, Italian, Chinese, Fast Food, Mexican, Desserts",3.1,"₹1,000 for two",5.7 km,"By Pass Road (South), Indore",Indore
+Chef's Alcove,"Italian, Mexican, Continental, American, Asian, Thai, Desserts, Beverages",4.3,₹850 for two,12.9 km,"Rau, Indore",Indore
+Delhi Darbar,North Indian,3.8,₹450 for two,4.1 km,"Old Palasia, Indore",Indore
+Gyani Ji Ka Khalsa Dhaba,"North Indian, Chinese, Desserts, Beverages",3.8,₹800 for two,3.8 km,"Bhawar Kuan, Indore",Indore
+SomePlace Else - The Park,"Bar Food, Continental, Asian, Beverages",4,"₹3,200 for two",7.9 km,"Vijay Nagar, Indore",Indore
+The Allahabadi,"North Indian, Mughlai, Chinese, Kebab, Biryani, Seafood, Salad",3.9,"₹1,000 for two",5.7 km,"Vijay Nagar, Indore",Indore
+Tiffin,"North Indian, Chinese, Continental, Mughlai, South Indian, Fast Food, Desserts, Beverages",3.6,"₹1,000 for two",2.1 km,"Hotel Winway, RNT Marg, Indore",Indore
+Tandoor Bar & Restaurant,"North Indian, Mughlai, Chinese, Pizza, Fast Food, Desserts, Beverages",3.8,"₹1,200 for two",4.3 km,"Vijay Nagar, Indore",Indore
+Kavelu,"North Indian, Oriental, Chinese, Biryani, Seafood, Beverages, Desserts",3.9,"₹1,000 for two",7.8 km,"Vijay Nagar, Indore",Indore
+Gyani Ji Ka Khalsa Dhaba,"North Indian, Chinese, Sandwich, Burger, Pizza, Fast Food, Desserts, Beverages",3.5,"₹1,000 for two",2.3 km,"New Palasia, Indore",Indore
+Zonatello,"Pizza, Pasta, Fast Food",4.4,₹650 for two,6.3 km,"By Pass Road (South), Indore",Indore
+SardarG's BiryaniZ,"Biryani, North Indian",4.1,₹300 for two,7.6 km,"Vijay Nagar, Indore",Indore
+The Blue Plate,"North Indian, Salad, Chinese, Oriental, Continental, Italian, Desserts, Beverages",4.2,"₹1,000 for two",7.5 km,"By Pass Road (South), Indore",Indore
+Xero Degrees,"Cafe, Coffee, Beverages, Italian, Pizza, Sandwich, Fast Food, Desserts",-,"₹1,000 for two",4.2 km,"Press Complex, Indore",Indore
+Havana Cafe Bar,"Continental, North Indian",-,"₹1,500 for two",4.9 km,"Press Complex, Indore",Indore
+11:11 Coffee,"Cafe, Coffee, Fast Food, Desserts, Shake, Beverages",4.1,₹500 for two,1.8 km,"South Tukoganj, Indore",Indore
+Mid Flight Garden Restaurant & Cafe,"North Indian, Kebab, Chinese, Salad, Desserts, Beverages",3.8,₹800 for two,4.4 km,"Airport Road, Indore",Indore
+Shree Guru Kripa,"North Indian, Chinese, Street Food, Fast Food, Desserts",-,₹300 for two,2.1 km,"Sarwate Bus Stand, Indore",Indore
+Diablo,"North Indian, Italian, Continental, Arabian, Biryani, Desserts, Beverages",4.1,"₹3,500 for two",3 km,"Old Palasia, Indore",Indore
+Venky's Chicken Xperience,"Fast Food, Burger, North Indian",3.3,₹550 for two,5.5 km,"Vijay Nagar, Indore",Indore
+Nature's Kitchen,"Chinese, Salad, North Indian, Continental, Fast Food, Desserts, Beverages",3.3,"₹1,000 for two",5 km,"Vijay Nagar, Indore",Indore
+Cafe Kono,"Sandwich, Fast Food, Momos, Burger, Beverages, Sichuan",4.1,₹400 for two,3 km,"Sapna Sangeeta, Indore",Indore
+The Social Platter,"Sandwich, Fast Food, Street Food, North Indian, Beverages",3.9,₹300 for two,3.9 km,"Press Complex, Indore",Indore
+Citron The Lounge Bar -  Hotel Essentia,"Bar Food, North Indian",-,"₹2,200 for two",5.1 km,"By Pass Road (North), Indore",Indore
+Zoca Cafe,"Cafe, Coffee, Chinese, Pasta, Fast Food, Momos, Shake, Beverages",3.9,₹700 for two,3.9 km,"Sudama Nagar, Indore",Indore
+Binge On Burgers,"Burger, Sandwich, Fast Food, Beverages",4.2,₹600 for two,5.3 km,"Annapurna Road, Indore",Indore
+De Brasserie Cafe & Bakery,"Cafe, Bakery",3.6,₹600 for two,6.6 km,"Vijay Nagar, Indore",Indore
+Shree Gurukripa Hotel Sarwate,"North Indian, Chinese, Desserts, Beverages, Biryani",4.1,"₹1,100 for two",1.8 km,"Sarwate Bus Stand, Indore",Indore
+OVENLY By Khurana's - Since 1991,"Bakery, Desserts, Sandwich, Pizza, Fast Food, Shake",3.3,₹400 for two,2.6 km,"New Palasia, Indore",Indore
+Casa Boho,"Coffee, Fast Food",2.8,₹500 for two,6.5 km,"By Pass Road (South), Indore",Indore
+Hotel Sonash By Golden Treat,"North Indian, Chinese, Biryani, Desserts, Beverages",4,"₹1,000 for two",4.1 km,"Bhawar Kuan, Indore",Indore
+Ratna Raj,"Rajasthani, North Indian",3.6,₹400 for two,2.7 km,"New Palasia, Indore",Indore
+Cafe Kono,"Sandwich, Burger, Pizza, Pasta, Chinese, Street Food, Shake, Beverages",4,₹400 for two,6.7 km,"By Pass Road (South), Indore",Indore
+Playotel Premier,"North Indian, Oriental, Continental, Desserts, Beverages",3.9,"₹1,000 for two",5.9 km,"Vijay Nagar, Indore",Indore
+The Crush Coffee,"Fast Food, Beverages",3.7,₹300 for two,10.7 km,"Rau, Indore",Indore
+Hotel Rajhans Dal Bafle,North Indian,3.7,₹400 for two,3.1 km,"Old Palasia, Indore",Indore
+Panchavati Gaurav,"North Indian, Rajasthani, Desserts",4,₹800 for two,4.4 km,"Malhar Mega Mall, Vijay Nagar, Indore",Indore
+Aloha - Silvotel,"Chinese, North Indian, Kebab, Salad, Rolls, Sandwich, Desserts, Beverages",3.8,₹700 for two,4.7 km,"Vijay Nagar, Indore",Indore
+The Eyry,"Cafe, Italian, Mexican, North Indian, Chinese, Fast Food, Desserts, Beverages",4,"₹1,200 for two",2.4 km,"New Palasia, Indore",Indore
+Haldiram's Restaurant,"North Indian, Chinese, South Indian, Street Food, Desserts, Continental, Beverages",2.6,₹450 for two,4.3 km,"Vijay Nagar, Indore",Indore
+Jail - The Indorii Cafe,"Sandwich, Pizza, Pasta, North Indian, Chinese, Momos, Desserts, Beverages",4.2,₹800 for two,3.7 km,"Navlakha, Indore",Indore
+Mad'ouk,"Chinese, Thai",3.4,"₹1,000 for two",6.7 km,"By Pass Road (North), Indore",Indore
+Bakerywala,"Bakery, South Indian, Fast Food, Chinese, Street Food, Desserts, Shake, Beverages",4.2,₹350 for two,5.7 km,"Vijay Nagar, Indore",Indore
+The Egg Eatery - Eggstremely Delicious,"Street Food, North Indian",3.7,₹400 for two,5.1 km,"Vijay Nagar, Indore",Indore
+Shreeleela Restaurant,"North Indian, Chinese, Desserts",3.4,"₹1,000 for two",5.7 km,"Vijay Nagar, Indore",Indore
+Kitchen Sensation,"North Indian, Chinese, Beverages",3.8,"₹1,000 for two",2.8 km,"New Palasia, Indore",Indore
+10 Downing Street,"Continental, Bar Food, Desserts",4.2,"₹2,500 for two",4.4 km,"Malhar Mega Mall, Vijay Nagar, Indore",Indore
+Shree Shyam Restaurant,"North Indian, Fast Food, Chinese",New,₹300 for two,3.8 km,"Geeta Bhavan, Indore",Indore
+Karim's - Original From Jama Masjid Delhi 6,"Mughlai, North Indian, Rolls, Biryani, Kebab",3.7,"₹1,000 for two",4.5 km,"Vijay Nagar, Indore",Indore
+Krushers.In,"Burger, Rolls, Street Food",3.3,₹200 for two,1.9 km,"RNT Marg, Indore",Indore
+New Rohit Chinese Point,"Chinese, Street Food",3.4,₹250 for two,2.9 km,"Airport Road, Indore",Indore
+Chatori Chachi,"Fast Food, Street Food, Maharashtrian, South Indian, Beverages, Sandwich",3.8,₹300 for two,3.5 km,"Old Palasia, Indore",Indore
+Hotel South Avenue,"North Indian, Mughlai, Continental, South Indian, Fast Food, Chinese, Desserts, Beverages",4.3,"₹1,000 for two",2.4 km,"South Tukoganj, Indore",Indore
+Tonic 93 Restobar,"North Indian, Mughlai, Biryani, Sandwich, Pizza",3.6,"₹1,000 for two",7 km,"By Pass Road (North), Indore",Indore
+Hungry Baghira,"Healthy Food, Chinese, North Indian, Seafood, Fast Food, Mughlai, Wraps, Beverages",4.2,₹550 for two,4.4 km,"Press Complex, Indore",Indore
+Khichdi Nation,North Indian,4.1,₹500 for two,6.7 km,"By Pass Road (North), Indore",Indore
+Burger Farm,"Burger, Fast Food, Beverages",3.7,₹300 for two,3.6 km,"Bhawar Kuan, Indore",Indore
+Mud Oven,"Cafe, Coffee, Beverages, North Indian, Asian, Continental, Italian, Desserts",4.1,₹800 for two,13.5 km,"Rau, Indore",Indore
+Starbucks Coffee,"Cafe, Coffee, Fast Food, Desserts",3.1,₹600 for two,4.6 km,"Vijay Nagar, Indore",Indore
+Kukdu Kuu Club,"North Indian, Mughlai, Chinese, Seafood, Biryani",3.7,₹800 for two,5.5 km,"BCM Heights, Vijay Nagar, Indore",Indore
+Fresh Serve Restaurant And Banquets,"North Indian, Pizza, Chinese, Fast Food, Desserts, Coffee, Shake, Beverages",4.1,"₹1,000 for two",5.4 km,"Vijay Nagar, Indore",Indore
+Amigos Café And Restaurant,"Pizza, Sandwich, Fast Food, Chinese, Street Food, Shake, Beverages",3.8,₹400 for two,4.7 km,"Khajrana, Indore",Indore
+The Sukoon Cafe,"Sandwich, Pizza, Fast Food, Momos, Street Food, Coffee, Shake, Beverages",3.9,₹300 for two,3.7 km,"Navlakha, Indore",Indore
+Bake N Shake,"Cafe, Bakery, North Indian, Chinese, Continental, Sandwich, Fast Food, Beverages",4.2,₹850 for two,5.2 km,"BCM Heights, Vijay Nagar, Indore",Indore
+Enrise By Sayaji,North Indian,3.4,"₹1,000 for two",14.3 km,"Rau, Indore",Indore
+McDonald's,"Burger, Fast Food, Beverages",4,₹400 for two,3.5 km,"Bhawar Kuan, Indore",Indore
+Bapu Ki Kutia,"North Indian, Salad, Desserts, Beverages",3.9,"₹1,000 for two",5.7 km,"Vijay Nagar, Indore",Indore
+Dutt Guru Kripa,"North Indian, Chinese, Fast Food, Desserts, Beverages",3.8,₹800 for two,2.1 km,"South Tukoganj, Indore",Indore
+54 Praangan - Indore Marriott Hotel,"Awadhi, North Indian, Mughlai, Biryani, Desserts, Beverages",4.2,"₹3,500 for two",4.2 km,"Indore Marriott Hotel, Vijay Nagar, Indore",Indore
+Shree Gurukripa,"North Indian, Chinese, Desserts, Beverages",3.7,"₹1,000 for two",5.6 km,"Vijay Nagar, Indore",Indore
+Tinku's,"Sandwich, Pizza, Burger, Fast Food, Chinese, Street Food, Coffee, Beverages",3.9,₹400 for two,3.7 km,"Bhawar Kuan, Indore",Indore
+Capers - Hotel Effotel,"North Indian, Chinese, Continental, Mediterranean, Salad, Mughlai, Desserts, Beverages",4.6,"₹2,000 for two",5.5 km,"Hotel Effotel, Vijay Nagar, Indore",Indore
+Tandoor Restaurant,"North Indian, Mughlai, Chinese, Kebab, Biryani",4.1,"₹1,300 for two",3.7 km,"Bhawar Kuan, Indore",Indore
+Manbhavan - Premium Veg Thali,"North Indian, Gujarati",3.8,₹500 for two,2.1 km,"Hotel Princes' Palace, South Tukoganj, Indore",Indore
+CBC Cafe,"Sandwich, Pizza, Pasta, Burger, Fast Food, Street Food, Shake, Beverages",3.2,₹300 for two,3.9 km,"Bhawar Kuan, Indore",Indore
+Shosha Cafebar,"North Indian, Mexican, Italian, Chinese, Fast Food, Thai, Desserts, Beverages",3.9,"₹1,500 for two",4.6 km,"Vijay Nagar, Indore",Indore
+Madhuram Cafe & Restaurant,"Fast Food, Sandwich",3.2,₹350 for two,1.3 km,"Bombay Bazaar, Indore",Indore
+Dripco - Speciality Coffee Brewers,"Coffee, Shake, Tea, Beverages",3.9,₹400 for two,4.5 km,"Vijay Nagar, Indore",Indore
+Chick-N-Serve,"Fast Food, Lebanese, Arabian",3.1,₹400 for two,2.8 km,"56 Dukan, New Palasia, Indore",Indore
+The Arab Nama,"Arabian, Mandi, North Indian, Mughlai",3.9,"₹1,000 for two",4 km,"Old Palasia, Indore",Indore
+Hotel Surya,"North Indian, Mughlai, Chinese, Continental, Biryani, Sandwich, Desserts, Beverages",4.2,"₹1,500 for two",2.3 km,"Hotel Surya, South Tukoganj, Indore",Indore
+Krozzon By Masters Bakery,"Cafe, Coffee, Beverages, Bakery, Fast Food, Pizza, Sandwich, Desserts",3.7,₹600 for two,6.6 km,"Vijay Nagar, Indore",Indore
+The Richie Rich Resto & Cafe,"North Indian, South Indian, Chinese, Pizza, Burger, Fast Food, Desserts, Beverages",3.6,"₹1,000 for two",8.5 km,"Rajendra Nagar, Indore",Indore
+Hat's Off,"North Indian, Mughlai, Kebab, Chinese, Biryani",3.9,"₹1,200 for two",6 km,"Vijay Nagar, Indore",Indore
+Food Fantasy,"North Indian, Chinese, Biryani, Sandwich, Burger, Rolls, Fast Food, Beverages",4.2,₹550 for two,4.6 km,"Vijay Nagar, Indore",Indore
+Skyline Club & Resorts,"North Indian, Mughlai, Chinese, Continental, Pasta, Kebab, Biryani",3,"₹1,200 for two",10.2 km,"By Pass Road (South), Indore",Indore
+Tic Tac Toe,"North Indian, Fast Food",4.3,"₹3,800 for two",5.2 km,"Vijay Nagar, Indore",Indore
+House Of Pita,"Middle Eastern, Turkish, Fast Food, Pizza, Continental",3.8,₹300 for two,6.7 km,"By Pass Road (South), Indore",Indore
+The Homey Rolls,"Rolls, North Indian, Healthy Food, Biryani, Beverages, Finger Food",4.3,₹450 for two,2.8 km,"New Palasia, Indore",Indore
+Chemistry The Cafe Lounge,"Cafe, Coffee, Shake, Beverages, Fast Food, Ice Cream, Desserts, Burger",3.5,₹500 for two,5.2 km,"Vijay Nagar, Indore",Indore
+Orange Paradise,"North Indian, Fast Food",-,₹300 for two,4.5 km,"Airport Road, Indore",Indore
+Rajkamal Dal Bafle,North Indian,4,₹200 for two,1.8 km,"Sarwate Bus Stand, Indore",Indore
+Maa Ki Rasoi,"North Indian, South Indian, Chinese, Kebab, Sandwich, Fast Food, Biryani, Beverages",4,₹700 for two,5.3 km,"Sudama Nagar, Indore",Indore
+Alav,"North Indian, Chinese, Kebab, Biryani, Sandwich, Ice Cream, Desserts, Beverages",3.9,₹700 for two,2.9 km,"New Palasia, Indore",Indore
+Nom! Nom! Chinese,"Chinese, Asian, Thai, Seafood, Beverages, Continental, Fast Food, Desserts",4.3,"₹1,000 for two",5.5 km,"Vijay Nagar, Indore",Indore
+Cafe Igloo,"North Indian, Fast Food",New,₹300 for two,4.1 km,"Old Palasia, Indore",Indore
+We Desi,"North Indian, Mughlai, Rolls, Fast Food, Biryani, Chinese, Street Food, Beverages",4,₹550 for two,5.5 km,"Vijay Nagar, Indore",Indore
+Mishri Sweets,Mithai,4.2,₹250 for two,5 km,"Vijay Nagar, Indore",Indore
+Rajendra Singh's Retro Kitchen,North Indian,-,"₹1,000 for two",7.9 km,"By Pass Road (North), Indore",Indore
+Oakaz - Cafe and Restaurant,"Sandwich, Burger, Pizza, Fast Food, Chinese, North Indian, Beverages",3.2,"₹1,200 for two",2.8 km,"South Tukoganj, Indore",Indore
+Karnawat Bhojan Prasadi,"North Indian, South Indian, Chinese, Sandwich, Pizza, Fast Food, Shake, Beverages",2.9,₹300 for two,3.3 km,"Airport Road, Indore",Indore
+Hotel Madni Darbar,"North Indian, Maharashtrian, Mughlai, Chinese",4,₹500 for two,1.7 km,"Sarwate Bus Stand, Indore",Indore
+Cilantro,"North Indian, Asian",3.1,"₹1,200 for two",7.5 km,"Vijay Nagar, Indore",Indore
+Effe Cafe,"South Indian, Italian, Pizza, Burger, Bar Food, Coffee, Beverages, Desserts",4.2,"₹1,000 for two",12.2 km,"Papaya Tree Hotel, Indore",Indore
+Good For Gut,"North Indian, Burger, Sandwich, Fast Food",3.9,₹300 for two,4.2 km,"Old Palasia, Indore",Indore
+Johny Hot Dog,"Fast Food, Hot dogs, Street Food",-,₹150 for two,2.8 km,"56 Dukan, New Palasia, Indore",Indore
+Hunger World Cafe,"Burger, Sandwich, Pizza, Fast Food, Shake, Beverages, Cafe",-,₹300 for two,6 km,"Vijay Nagar, Indore",Indore
+Epicure,"North Indian, Asian, Chinese, Continental, Biryani, Desserts, Bar Food",New,"₹2,100 for two",2.2 km,"South Tukoganj, Indore",Indore
+Twilight - Hotel WOW CREST IHCL SELEQTIONS,"Bar Food, North Indian, Chinese, Continental, Italian, Pizza, Pasta, Beverages",4.4,"₹2,400 for two",4.6 km,"Hotel Wow, Vijay Nagar, Indore",Indore
+Chav - Truly Indian,North Indian,3.9,₹350 for two,4.8 km,"Khajrana, Indore",Indore
+Oye24,"North Indian, Street Food",4.1,₹500 for two,6.6 km,"By Pass Road (North), Indore",Indore
+Veera Di Hatti,"North Indian, Kebab",4.4,₹400 for two,2.7 km,"Sapna Sangeeta, Indore",Indore
+Domino's Pizza,"Pizza, Italian, Pasta, Fast Food",3.9,₹400 for two,3.8 km,"Old Palasia, Indore",Indore
+Lite Meal Cafe & Restaurant,"North Indian, Sandwich, Pizza, Burger, Fast Food, Chinese, Shake, Beverages",3.4,₹350 for two,3.2 km,"New Palasia, Indore",Indore
+Restro Delight,"North Indian, Chinese, Biryani, Rolls",3.9,"₹1,000 for two",5 km,"Vijay Nagar, Indore",Indore
+Goldy Di Hatti,"North Indian, Mughlai, Biryani, Chinese, Seafood, Street Food",3.9,₹550 for two,6.2 km,"Vijay Nagar, Indore",Indore
+City Of Dreams,"Bar Food, North Indian, Biryani, Chinese, Sandwich, Fast Food, Desserts",-,"₹1,000 for two",4.3 km,"Vijay Nagar, Indore",Indore
+Best Western Plus,"North Indian, Biryani, Fast Food, Chinese, Desserts",4.2,"₹1,000 for two",4.7 km,"Vijay Nagar, Indore",Indore
+T. O'Clock Cafe,"Pizza, Fast Food, Street Food, Shake, Beverages",3,₹300 for two,6.2 km,"Rajendra Nagar, Indore",Indore
+Jamnaram's Pure Veg Multi-Cuisine Fine Dine Restaurant,"North Indian, Chinese, Continental, Italian, Sandwich, Fast Food, Salad, Desserts",3.7,"₹1,000 for two",7.6 km,"By Pass Road (South), Indore",Indore
+Cafe Udipi,South Indian,4.5,₹400 for two,3.1 km,"Old Palasia, Indore",Indore
+Bakenza,"Sandwich, Burger, Momos, Street Food, Fast Food, Coffee, Shake, Beverages",-,₹300 for two,4.5 km,"Airport Road, Indore",Indore
+Delectable Delights - Sayaji Hotel,"North Indian, Chinese, Beverages",4.7,"₹1,800 for two",4.4 km,"Sayaji Hotel, Vijay Nagar, Indore",Indore
+Shree Chotiwala Restaurant,"North Indian, Chinese",3.9,"₹1,000 for two",2.1 km,"South Tukoganj, Indore",Indore
+Vrindavan Restaurant,"North Indian, Chinese, Biryani, Salad, Desserts, Beverages",3.5,₹750 for two,2.6 km,"New Palasia, Indore",Indore
+Chef Lucky's Paratha On Wheels,"North Indian, Biryani, Beverages",4.3,₹500 for two,4.7 km,"Vijay Nagar, Indore",Indore
+Indiya Oye - Radisson Blue Hotel,"North Indian, Mughlai, Kebab, Desserts",4,"₹3,500 for two",5.4 km,"Radisson Blu Hotel, Vijay Nagar, Indore",Indore
+Shawarma Grill,"Shawarma, Momos",3.8,₹350 for two,6.6 km,"By Pass Road (South), Indore",Indore
+Apna Sweets,"Desserts, Ice Cream, Juices, Shake, Beverages",3.7,₹350 for two,4.7 km,"Vijay Nagar, Indore",Indore
+Bam-Booze Family Restaurant - Golden Treat,"North Indian, Mughlai, Chinese, Seafood, Kebab, Sandwich, Biryani, Beverages",4.1,"₹1,200 for two",3.6 km,"Bhawar Kuan, Indore",Indore
+Kesarlal Pure Veg Restaurant,"North Indian, Chinese, Beverages",-,₹500 for two,10.2 km,"By Pass Road (South), Indore",Indore
+Hotel Apna Avenue Foody,"North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages",4,"₹1,000 for two",2.5 km,"New Palasia, Indore",Indore
+Mama Ji Ka Dhaba,"North Indian, Chinese",3.7,₹300 for two,11.3 km,"Rau, Indore",Indore
+Sigdi - Sizzler & South Indian,"South Indian, Momos",3.9,₹800 for two,7.6 km,"By Pass Road (North), Indore",Indore
+Tea & Shakes,"Chinese, Pizza, Sandwich, Pasta, Salad, North Indian, Beverages",3.8,₹500 for two,5.2 km,"Vijay Nagar, Indore",Indore
+The Frontier Pavilion,"North Indian, Continental, Bar Food, Chinese, Salad, Oriental, Desserts",3.9,"₹1,500 for two",4.9 km,"Bhawar Kuan, Indore",Indore
+Kebabilal's,"North Indian, Chinese, Mughlai, Kebab, Biryani, Desserts, Beverages",3.7,₹800 for two,4.3 km,"Bhawar Kuan, Indore",Indore
+Saffron,"North Indian, Chinese, South Indian, Pizza, Sandwich, Fast Food, Ice Cream, Beverages",3.1,₹400 for two,3 km,"Ranjeet Hanuman, Indore",Indore
+Carobar  Indore,"North Indian, Mughlai, Chinese, Biryani",3.9,"₹1,400 for two",8.6 km,"By Pass Road (North), Indore",Indore
+Real Paprika Pizzeria,"Pizza, Fast Food, Shake, Beverages",3.3,₹400 for two,4.9 km,"Sudama Nagar, Indore",Indore
+Wah Wah Chaap,"North Indian, Chinese, Rolls, Biryani, Desserts, Shake, Beverages",4.1,₹400 for two,5.5 km,"Vijay Nagar, Indore",Indore
+Yes Boss - The Food Court,"North Indian, Continental, Chinese, Fast Food, Shake, Beverages",2.9,₹450 for two,7.5 km,"Vijay Nagar, Indore",Indore
+Prithvilok Restaurant,North Indian,4.2,₹500 for two,1 km,"Rajwada, Indore",Indore
+Shree Hari Om Dhaba,North Indian,4.1,₹150 for two,7.7 km,"Rajendra Nagar, Indore",Indore
+Buddy's,"Cafe, North Indian, Chinese, Mexican, Pasta, Fast Food, Desserts, Beverages",3.2,₹700 for two,2.4 km,"South Tukoganj, Indore",Indore
+Hotel Kalinga,"North Indian, Chinese, Continental, Biryani, Kebab, Mughlai, Seafood, Fast Food",4,"₹1,000 for two",2.1 km,"South Tukoganj, Indore",Indore
+Indore Accent - By AFC,"North Indian, Continental",4,"₹1,000 for two",7.7 km,"MR 10 Road, Indore",Indore
+Opium Bar By The Roof,"Bar Food, North Indian, Mughlai, Chinese, Seafood, Biryani, Desserts, Beverages",4.3,"₹2,000 for two",5.8 km,"Infiniti Hotel, Vijay Nagar, Indore",Indore
+Poonam's Patisserie,"Bakery, Desserts",3.8,₹350 for two,3 km,"Sapna Sangeeta, Indore",Indore
+Hotel 5 Senses,"North Indian, Chinese, Salad, Pizza, Fast Food, Beverages",-,₹400 for two,25.8 km,"Mhow, Indore",Indore
+Pizzaporium,"Pizza, Chinese, Fast Food, Beverages",2.9,₹350 for two,4.3 km,"Vijay Nagar, Indore",Indore
+Rolls Mania,"Rolls, Fast Food, Beverages",3.6,₹300 for two,5.5 km,"Vijay Nagar, Indore",Indore
+Sassy House - All Day Cafe,"Cafe, Fast Food, North Indian, Beverages, Desserts, Pizza, Pasta",3.6,₹650 for two,5.1 km,"Vijay Nagar, Indore",Indore
+F For Fries,"Fast Food, Beverages",-,₹300 for two,3.9 km,"Old Palasia, Indore",Indore
+The Belgian Street,"Continental, Italian, Fast Food, Street Food, Ice Cream, Desserts, Coffee, Beverages",-,₹600 for two,5.2 km,"Vijay Nagar, Indore",Indore
+King Of Cakes,"Bakery, Desserts, Street Food",3.8,₹450 for two,6.7 km,"Vijay Nagar, Indore",Indore
+Charpai - The Dhaba,"North Indian, Biryani, Chinese, Desserts, Beverages",3.5,"₹1,000 for two",10.5 km,"MR 10 Road, Indore",Indore
+Pitchers Cafebar,"North Indian, Pizza, Chinese, Bar Food, Beverages",4.8,"₹1,000 for two",4.2 km,"Vijay Nagar, Indore",Indore
+Mr. Bistro,"Sandwich, Wraps, Fast Food, Coffee, Beverages",-,₹400 for two,3.9 km,"Khajrana, Indore",Indore
+Heritage By Shikarwadi,"Chinese, North Indian, Mughlai",-,₹450 for two,7.4 km,"By Pass Road (North), Indore",Indore
+Orion Cafe Restro,"Chinese, North Indian, Sandwich, Pizza, Fast Food, Desserts, Beverages",4.2,₹800 for two,8 km,"By Pass Road (North), Indore",Indore
+Municipal Cafe Bar,"North Indian, Italian, Desserts",-,"₹1,450 for two",5.2 km,"Vijay Nagar, Indore",Indore
+Maa Ki Rasoi,"North Indian, Chinese, Mughlai",3.1,₹700 for two,5.1 km,"Mangal City Mall, Vijay Nagar, Indore",Indore
+Zakir Family Restaurant,"North Indian, Mughlai, Kebab, Lebanese, Chinese, Seafood, Biryani",4.2,"₹1,000 for two",4.6 km,"Khajrana, Indore",Indore
+Chai Sutta Bar,"Tea, Coffee, Shake, Sandwich, Pizza, Burger, Fast Food, Street Food",-,₹200 for two,6.6 km,"Bhawar Kuan, Indore",Indore
+Guru Kripa,"North Indian, Fast Food, Chinese",4,₹450 for two,13 km,"Rau, Indore",Indore
+BTS FOOD WORLD,"Chinese, Pizza, Sandwich, Tea, Shake, Beverages",New,₹300 for two,3.7 km,"Bhawar Kuan, Indore",Indore
+Kapoors Restaurant,North Indian,3.8,₹400 for two,3.2 km,"Sapna Sangeeta, Indore",Indore
+Ice Cream Factory And Shahi Durbar,"Ice Cream, Desserts",-,₹200 for two,2.8 km,"South Tukoganj, Indore",Indore
+Hotel Nizam,"North Indian, Mughlai",3.8,₹350 for two,5.9 km,"Khajrana, Indore",Indore
+La Milano Pizzeria,"Pizza, Pasta, Italian, American, Mexican, Desserts, Beverages, Fast Food",3.4,₹450 for two,2.9 km,"Geeta Bhavan, Indore",Indore
+Chaapsticks,"North Indian, Rolls, Momos, Beverages",3.8,₹300 for two,2.4 km,"Manik Bagh Road, Indore",Indore
+Euphoria Cafe,"Coffee, Sandwich, Pizza, Fast Food, Momos, Beverages",-,₹300 for two,6.2 km,"Rajendra Nagar, Indore",Indore
+Fiza Restaurant,"North Indian, Maharashtrian",3.8,₹350 for two,1.2 km,"Bombay Bazaar, Indore",Indore
+Shree Nakoda Dham Bhojnalaya,North Indian,-,₹300 for two,1.3 km,"Bombay Bazaar, Indore",Indore
+Chick N Serve,"Lebanese, North Indian, Kebab, Chinese, Mughlai, Biryani",3.7,"₹1,000 for two",4.7 km,"Vijay Nagar, Indore",Indore
+H & D Nonveg Restaurant,"North Indian, Mughlai",3.2,₹500 for two,7.2 km,"Vijay Nagar, Indore",Indore
+Cake & Art Bakery Shop,"Bakery, Desserts",-,₹250 for two,8.2 km,"Vijay Nagar, Indore",Indore
+Cheezah,"Chinese, Pizza, Sandwich, Burger, Momos, Fast Food, Street Food",-,₹300 for two,8.3 km,"Vijay Nagar, Indore",Indore
+Curry Cafe,"North Indian, Chinese, Fast Food, Salad, Desserts, Beverages",3.9,₹800 for two,2.4 km,"Rajshahi Palace, South Tukoganj, Indore",Indore
+Baba Kulfi House,"Desserts, Ice Cream, North Indian, South Indian, Sandwich, Fast Food, Mithai, Beverages",3.8,₹300 for two,11.6 km,"Rau, Indore",Indore
+Chaudhary Ka Dhaba,"North Indian, Chinese, Mughlai, Street Food, Fast Food, Ice Cream, Desserts, Beverages",3,₹400 for two,7.2 km,"Vijay Nagar, Indore",Indore
+Indian Coffee House,"South Indian, North Indian, Chinese, Beverages",3.9,₹400 for two,5.5 km,"BCM Heights, Vijay Nagar, Indore",Indore
+Family Adda,"Chinese, South Indian, Beverages, Pasta, Street Food, Sichuan",4.3,₹350 for two,4.1 km,"Old Palasia, Indore",Indore
+Domac Cafe & Pizza,Pizza,New,₹200 for two,5.1 km,"Vijay Nagar, Indore",Indore
+Sagar Gaire,"South Indian, North Indian, Pasta, Sandwich, Pizza, Fast Food, Chinese, Beverages",3.8,₹400 for two,2.7 km,"56 Dukan, New Palasia, Indore",Indore
+Swarna's Kitchen,North Indian,New,₹300 for two,3.7 km,"Old Palasia, Indore",Indore
+Shyam Sandwich & Shanky's Café,"Sandwich, Fast Food, Beverages",3.9,₹300 for two,2 km,"YN Road, Indore",Indore
+Destiny Cafe,"Cafe, Coffee, Shake, Beverages, Sandwich, Fast Food, North Indian, Chinese",-,₹600 for two,3.9 km,"Press Complex, Indore",Indore
+Nanaksar Dhaba,"North Indian, Chinese, Fast Food, Street Food, Beverages",New,₹300 for two,2.9 km,"Geeta Bhavan, Indore",Indore
+Mr. Singh's,"North Indian, Mughlai, Chinese, Rolls, Biryani",3.7,₹800 for two,5.5 km,"Vijay Nagar, Indore",Indore
+Salt and Pepper - Hotel Amar Vilas,"North Indian, Mughlai, Chinese, Oriental, Continental, Seafood, Desserts, Beverages",4,"₹1,300 for two",4.1 km,"Hotel Amar Vilas, Press Complex, Indore",Indore
+Cakes N Craft,"Bakery, Desserts, Fast Food",2.8,₹500 for two,5.6 km,"Rajendra Nagar, Indore",Indore
+The Cozmo Kitchen,"North Indian, Chinese, Sandwich, Italian, Rolls, Fast Food, Desserts, Beverages",-,"₹1,000 for two",6.7 km,"By Pass Road (North), Indore",Indore
+Hotel Kanchan,"North Indian, Mughlai, Kebab, Chinese, Sichuan, Continental, Desserts, Beverages",4.3,"₹1,200 for two",2.2 km,"South Tukoganj, Indore",Indore
+Layers By Janvi,Bakery,3.8,₹350 for two,2.2 km,"YN Road, Indore",Indore
+Ice Flames Cafe,"Pizza, Sandwich, Burger, Pasta, Street Food, Coffee, Shake, Beverages",3.9,₹350 for two,6.1 km,"Rajendra Nagar, Indore",Indore
+Mr Saboodana,"North Indian, Street Food, Beverages",3.6,₹200 for two,5.1 km,"Vijay Nagar, Indore",Indore
+Aieroc Resto Cafe,"Cafe, Continental, Chinese, Italian, Pizza, Sandwich, Fast Food, Beverages",4.2,"₹1,100 for two",6.3 km,"By Pass Road (North), Indore",Indore
+Cakes 365,"Bakery, Fast Food, Street Food, Shake, Coffee",3.4,₹300 for two,3.7 km,"Old Palasia, Indore",Indore
+The Grilled Trip,"Sandwich, Fast Food, Continental",-,₹450 for two,4.8 km,"Vijay Nagar, Indore",Indore
+21 Baker Street,"Pizza, Sandwich, Burger, Fast Food, Beverages",3.8,₹200 for two,5 km,"Geeta Bhavan, Indore",Indore
+Veg Bites,"Cafe, North Indian, Chinese, Pizza, Pasta, Fast Food, Momos, Beverages",2.7,₹500 for two,5.2 km,"Vijay Nagar, Indore",Indore
+Zuby's Fast 'N' Foodious,"Fast Food, Burger, Sandwich, Beverages",4.5,₹400 for two,2.9 km,"Bhawar Kuan, Indore",Indore
+Raju Bhai Ka Dhaba - Mansha Foods,North Indian,4.6,₹300 for two,3.6 km,"Bhawar Kuan, Indore",Indore
+Shreeleela Bhojnalaya,"North Indian, Chinese, Desserts",3.4,₹300 for two,1.8 km,"Sarwate Bus Stand, Indore",Indore
+7 Trillion,"North Indian, Fast Food, Continental, Desserts, Beverages",-,"₹1,000 for two",7.7 km,"By Pass Road (North), Indore",Indore
+Hummus & Chips,"Arabian, Wraps, Fast Food, Salad",-,₹350 for two,2.7 km,"New Palasia, Indore",Indore
+Nazaara - Papaya Tree Hotel,"North Indian, Italian, Continental, Chinese, Oriental, Bar Food, Desserts, Beverages",4.3,"₹1,600 for two",12.1 km,"Papaya Tree Hotel, Indore",Indore
+IDC Idliwali,South Indian,3,₹150 for two,20.9 km,"Mhow, Indore",Indore
+Murari Dhaba,North Indian,3.2,₹250 for two,7.7 km,"Rajendra Nagar, Indore",Indore
+Tealogy,"Tea, Coffee, Shake, Beverages, Sandwich, Pizza, Fast Food, Street Food",3.5,₹200 for two,3.1 km,"Sapna Sangeeta, Indore",Indore
+King's Cafe & Restaurant,North Indian,3.8,₹250 for two,2.2 km,"Malharganj, Indore",Indore
+7th Cloud Restaurant,"North Indian, Mughlai, Chinese, Fast Food, Biryani, Desserts, Beverages",4.2,"₹1,200 for two",7.3 km,"Rajendra Nagar, Indore",Indore
+Gola Sizzlers,"Cafe, Coffee, North Indian, Pizza, Pasta, Salad, Shake, Beverages",New,"₹1,500 for two",8.3 km,"By Pass Road (North), Indore",Indore
+Gordhan Thal,"North Indian, Fast Food, Street Food, Beverages",3.9,₹700 for two,4.4 km,"C21 Mall, Vijay Nagar, Indore",Indore
+Drunk The Tea Cafe,"Fast Food, Sandwich, Sichuan, Shake, Beverages",3.5,₹250 for two,4.8 km,"Vijay Nagar, Indore",Indore
+Nautica - The Red Maple,"North Indian, Mughlai, Chinese, Continental, Fast Food, Biryani, Desserts, Beverages",2.7,"₹1,300 for two",13 km,"The Red Maple Mashal, Rau, Indore",Indore
+The Blue Roof,"Pizza, Burger, Pasta, Fast Food, Momos, Chinese, Street Food, Beverages",3.3,₹400 for two,3.5 km,"HIG-LIG, Indore",Indore
+Nothing Before Coffee,"Cafe, Coffee, Beverages, Street Food, Desserts",4.1,₹500 for two,2.7 km,"New Palasia, Indore",Indore
+Al Arabi Falafel,Arabian,4.7,₹200 for two,3.5 km,"Old Palasia, Indore",Indore
+Minshul Restaurant,"Fast Food, North Indian, Sandwich, Biryani, Beverages",-,₹400 for two,5 km,"Mangal City Mall, Vijay Nagar, Indore",Indore
+Neelkanth Thali,North Indian,2.6,₹450 for two,5.5 km,"Vijay Nagar, Indore",Indore
+Splash Bar & Grill,"North Indian, Mughlai, Italian, Salad, Pasta, Desserts, Beverages",3.7,"₹3,000 for two",5.1 km,"By Pass Road (North), Indore",Indore
+Lighthouse - The Club,"North Indian, Mughlai, Kebab, Seafood, Chinese, Oriental, Bar Food, Beverages",4,"₹1,500 for two",4.4 km,"Vijay Nagar, Indore",Indore
+Shree Radhe Radhe Bhojnaliya,"North Indian, Kebab, Biryani",3.5,₹450 for two,5.2 km,"Khajrana, Indore",Indore
+Daily Dose Cafe,"Sandwich, Pizza, Burger, Fast Food, Street Food, Shake, Coffee, Beverages",3.3,₹300 for two,2.4 km,"Manik Bagh Road, Indore",Indore
+Millets N More,"North Indian, Chinese, Pizza, Sandwich",New,"₹1,000 for two",8 km,"By Pass Road (South), Indore",Indore
+MBA Pizza,"Pizza, Pasta, Sandwich, Burger, Fast Food, Chinese, Street Food",2.8,₹350 for two,4.7 km,"Vijay Nagar, Indore",Indore
+Ice Balls & Slice Square,"Pizza, Pasta, Sandwich, Fast Food",3.5,₹300 for two,5.2 km,"Vijay Nagar, Indore",Indore
+Vijay Chaat House,"Street Food, Mithai, Beverages",4.6,₹200 for two,2.8 km,"New Palasia, Indore",Indore
+The Pizza Wheel,Pizza,3.1,₹250 for two,2.8 km,"Sapna Sangeeta, Indore",Indore
+The Burger Company,"Burger, Pizza, Fast Food",-,₹350 for two,5 km,"Vijay Nagar, Indore",Indore
+India Junction,"North Indian, Chinese, Fast Food, Shake",3.3,₹800 for two,2.8 km,"South Tukoganj, Indore",Indore
+Dal Bati Surma,Rajasthani,-,₹600 for two,2.8 km,"New Palasia, Indore",Indore
+Goverdhan - Restaurant and Rooftop Cafe,"North Indian, Chinese, Desserts",3.9,₹700 for two,3.9 km,"Annapurna Road, Indore",Indore
+Mamaji Namkeen and Sweets,"Mithai, Street Food",3,₹200 for two,2.7 km,"Chhavani, Indore",Indore
+City Gymkhana Club,"North Indian, Mughlai, Chinese, Seafood, Kebab, Biryani, Bar Food",4.3,"₹1,200 for two",2.4 km,"Sapna Sangeeta, Indore",Indore
+Suffa Restaurant,"North Indian, Chinese, Kebab",3.1,₹500 for two,1.6 km,"Sarwate Bus Stand, Indore",Indore
+Bake Affaire,"Cafe, Chinese, Fast Food, Street Food, Beverages",4.3,₹550 for two,2.1 km,"YN Road, Indore",Indore
+JMB,"Mithai, North Indian, Chinese, Fast Food, Street Food",4.1,₹300 for two,1.9 km,"Manik Bagh Road, Indore",Indore
+Bamboo Tree,"North Indian, Mughlai, Chinese, South Indian, Biryani, Fast Food, Beverages",2.9,"₹1,000 for two",7.2 km,"Vijay Nagar, Indore",Indore
+99 Pancakes,"Pancake, Desserts, Bakery, Cafe, Beverages, Finger Food",4.2,₹350 for two,3.9 km,"Old Palasia, Indore",Indore
+Kolkata Roll - 56 Dukaan,"Chinese, Rolls, Fast Food, Sichuan",3.8,₹300 for two,2.8 km,"56 Dukan, New Palasia, Indore",Indore
+Malt - Sheraton Grand Palace,"Bar Food, Salad, North Indian, Continental, Beverages",3.9,"₹2,000 for two",9.7 km,"Sheraton Grand Palace, Indore",Indore
+Curry & Hurry,"North Indian, Mughlai, Biryani, Chinese, Street Food, Beverages",-,₹700 for two,5.1 km,"Vijay Nagar, Indore",Indore
+Rooster Club,"Fast Food, Beverages",-,₹400 for two,6.2 km,"Khajrana, Indore",Indore
+Candelas Restaurant,"North Indian, Mughlai, Chinese, Continental, Desserts",3,"₹1,000 for two",12.8 km,"By Pass Road (North), Indore",Indore
+Hotel Kanchan Tilak,"North Indian, Mughlai, Chinese, Kebab, Biryani, Ice Cream, Desserts, Beverages",3.4,"₹1,200 for two",2.9 km,"New Palasia, Indore",Indore
+Punchin,"North Indian, Mughlai, Kebab, Biryani, Chinese, Desserts",4.4,"₹1,000 for two",4.4 km,"Vijay Nagar, Indore",Indore
+Lotus Hut,"Fast Food, Pizza, Sandwich, Street Food, Shake, Beverages",3.9,₹350 for two,2 km,"South Tukoganj, Indore",Indore
+Balle Balle Restaurant,"North Indian, Chinese",4,₹600 for two,3.1 km,"Sapna Sangeeta, Indore",Indore
+Mukki Ke Zayke,"Street Food, Shake, Beverages",4.2,₹250 for two,3.5 km,"Bhawar Kuan, Indore",Indore
+Bake Affaire,"Bakery, Desserts",-,₹500 for two,5.2 km,"Vijay Nagar, Indore",Indore
+Al-Qasim,"Afghan, Chinese, North Indian, Mughlai",3.8,₹600 for two,1.8 km,"Sarwate Bus Stand, Indore",Indore
+Occasion - Hotel Amar Vilas,"North Indian, Mughlai, Biryani, Continental, Seafood, Oriental, Bakery, Desserts",3.9,"₹1,000 for two",4.1 km,"Hotel Amar Vilas, Press Complex, Indore",Indore
+Shivsagar Patidar Dal Bafle,North Indian,3.9,₹250 for two,5 km,"Khajrana, Indore",Indore
+Cafe Coffee Club,"Sandwich, Pizza, Fast Food, Street Food, Ice Cream, Coffee, Beverages",-,₹200 for two,6.9 km,"Airport Road, Indore",Indore
+Guru Restaurant,North Indian,3.9,₹200 for two,2.5 km,"HIG-LIG, Indore",Indore
+Romba South,"Andhra, South Indian, North Indian, Desserts, Beverages, Pizza, Burger",4.1,₹800 for two,4.2 km,"Vijay Nagar, Indore",Indore
+La Pino'z Pizza,"Pizza, Italian, Fast Food",-,₹450 for two,7.5 km,"Rajendra Nagar, Indore",Indore
+Rishi Ka Dhaba,"North Indian, Chinese, Salad, Street Food",3.4,₹450 for two,5 km,"Bhawar Kuan, Indore",Indore
+Masala Nation,"North Indian, Chinese",3.8,"₹1,000 for two",9.6 km,"By Pass Road (South), Indore",Indore
+Sizzling Treat - Hotel Crown Palace,"North Indian, Mughlai, Oriental, Continental, Salad, Biryani, Desserts, Beverages",3.7,"₹1,300 for two",2.8 km,"Hotel Crown Palace, South Tukoganj, Indore",Indore
+Natural Ice Cream,Ice Cream,4.8,₹200 for two,1.8 km,"RNT Marg, Indore",Indore
+Amrapali Restaurant,"North Indian, South Indian, Salad, Street Food",New,₹300 for two,8.4 km,"Kumedi, Indore",Indore
+Machan,"North Indian, Mughlai, Seafood",New,"₹1,400 for two",4.3 km,"Vijay Nagar, Indore",Indore
+Bombay Mansion,"North Indian, Kebab, Chinese, Biryani",-,"₹1,900 for two",4.3 km,"Vijay Nagar, Indore",Indore
+Pocket Burger,"Burger, Sandwich, Wraps, Fast Food, Street Food, Shake",2.8,₹300 for two,5.1 km,"Vijay Nagar, Indore",Indore
+Hong Kong Chinese Restaurant,"Chinese, Sichuan, Seafood",4.1,₹450 for two,3.1 km,"Old Palasia, Indore",Indore
+Sai Prasad Bhojanalya,North Indian,4.3,₹300 for two,1.5 km,"South Tukoganj, Indore",Indore
+Gol Roti Restaurant And Cafe,"North Indian, Chinese, Italian, Sandwich, Burger, Desserts, Shake, Beverages",3.8,₹550 for two,3 km,"Sapna Sangeeta, Indore",Indore
+The Market - Fairfield by Marriott,"Cafe, Coffee, Pizza, Fast Food, Shake, Beverages",3.5,"₹1,000 for two",5.4 km,"Fairfield By Marriott, Indore",Indore
+Shiva Chinese Wok,"Chinese, North Indian, Momos, Pasta, Biryani, Fast Food, Shake, Beverages",3.8,₹500 for two,7.6 km,"By Pass Road (North), Indore",Indore
+Cherry Blossom,"Bakery, Desserts, Fast Food, Street Food",3.9,₹400 for two,4.9 km,"Vijay Nagar, Indore",Indore
+Pop's Burger,"Burger, Fast Food, Salad, Shake",4.3,₹400 for two,6.2 km,"By Pass Road (North), Indore",Indore
+Guru Kripa Rau -Since 1987,"North Indian, Chinese, Desserts, Beverages",4,₹500 for two,12.7 km,"Rau, Indore",Indore
+Mosaic - Country Inn & Suites By Radisson,"North Indian, Mughlai, Seafood, Asian, Oriental, Salad, Desserts, Beverages",3.9,"₹1,000 for two",4.6 km,"Country Inn & Suites By Radisson, Vijay Nagar, Indore",Indore
+Al Karam Kitchen,"North Indian, Mughlai, Chinese, Seafood, Salad, Biryani, Desserts",3.6,"₹1,000 for two",2.2 km,"Chhavani, Indore",Indore
+Deep The Planet Of Food,"Chinese, Pizza, Pasta, Beverages, Modern Indian, Fast Food",-,"₹1,000 for two",5.1 km,"Sudama Nagar, Indore",Indore
+La Pino'z Pizza,"Pizza, Pasta, Italian, Fast Food",2.8,₹500 for two,2.9 km,"South Tukoganj, Indore",Indore
+The Belgian Waffle Co.,"Waffle, Pancake, Ice Cream, Desserts, Beverages",4.2,₹350 for two,3.8 km,"Old Palasia, Indore",Indore
+Chirmi,"North Indian, Chinese",New,₹400 for two,5.1 km,"Vijay Nagar, Indore",Indore
+Cafe Bake Well,"Chinese, North Indian, Shake, Beverages",3.6,₹400 for two,2.8 km,"Hotel Crown Palace, South Tukoganj, Indore",Indore
+The Garden Cafe & Restro,"North Indian, Chinese, Salad, Ice Cream, Desserts, Tea, Coffee, Beverages",2.7,₹500 for two,14.4 km,"By Pass Road (North), Indore",Indore
+Martino'z Pizza,"Pizza, Fast Food, Mexican",3.9,₹400 for two,3.5 km,"Bhawar Kuan, Indore",Indore
+Lucky Bakers,"Bakery, Sandwich, Pizza, Burger, Fast Food, Beverages",4.2,₹300 for two,4.8 km,"Sudama Nagar, Indore",Indore
+Fantasy Bakery And Cafe,"Cafe, Coffee, Beverages, Fast Food, Continental, North Indian, Chinese, Bakery",4.2,"₹1,000 for two",6.1 km,"By Pass Road (South), Indore",Indore
+The Papaya Kitchen,"North Indian, Mughlai, Seafood, Continental, Italian, Asian, Desserts, Beverages",4.1,"₹1,000 for two",12.1 km,"Rau, Indore",Indore
+Indori Non-Veg Restaurant,"North Indian, Chinese, Mughlai, Kebab, Biryani",3.5,₹500 for two,5.4 km,"Vijay Nagar, Indore",Indore
+Mr. Singh's Pure Veg Restaurant & Cafe,"North Indian, Chinese, Biryani, Desserts, Beverages",-,₹600 for two,5.6 km,"Vijay Nagar, Indore",Indore
+The Dhaba Co.,North Indian,-,₹300 for two,4 km,"Press Complex, Indore",Indore
+A3 Family Restaurant,"North Indian, Chinese, Street Food, Biryani",4,₹500 for two,9.3 km,"Rau, Indore",Indore
+Shawarma Grill & Momo Station,"Shawarma, Fast Food, Momos, Lebanese, Rolls, Beverages",4,₹300 for two,2.2 km,"Manik Bagh Road, Indore",Indore
+Govardhan Family Restaurant,"North Indian, Chinese",3.5,₹400 for two,12.2 km,"Rau, Indore",Indore
+Botany Bistro,"North Indian, Mexican, Continental, Pizza, Pasta, Biryani, Shake, Beverages",New,"₹1,200 for two",9 km,"By Pass Road (North), Indore",Indore
+Waffle Hut,"Waffle, Pancake, Burger, Sandwich, Pizza, Fast Food, Shake, Beverages",-,₹500 for two,3.9 km,"Sudama Nagar, Indore",Indore
+The Sukoon Cafe,"Beverages, Fast Food",New,₹200 for two,4.6 km,"Bhawar Kuan, Indore",Indore
+JMB - Jain Mithai Bhandar,"Mithai, North Indian, South Indian, Chinese, Sandwich, Fast Food, Street Food, Beverages",3.1,₹400 for two,3.3 km,"HIG-LIG, Indore",Indore
+Nakhrali Dhani,"Rajasthani, Chinese",4.1,₹800 for two,11.5 km,"Rau, Indore",Indore
+Punjabi Nation,North Indian,-,₹400 for two,3.5 km,"Bhawar Kuan, Indore",Indore
+Courtyard - Crescent Spa & Resorts,"North Indian, Chinese, Continental, Pizza, Desserts, Shake",4.1,₹650 for two,9.5 km,"Crescent Spa & Resorts, Indore",Indore
+Khorak Restaurant,"North Indian, Kebab, Chinese, Street Food, Fast Food, Desserts, Beverages",3.9,₹600 for two,5.2 km,"Annapurna Road, Indore",Indore
+Keventers - Milkshakes & Desserts,"Shake, Beverages, Desserts",-,₹400 for two,3.1 km,"Sapna Sangeeta, Indore",Indore
+Ashirwad Bhojnalaya,"Rajasthani, North Indian",4,₹250 for two,5 km,"Mangal City Mall, Vijay Nagar, Indore",Indore
+Re Pub Liq,Bar Food,4.1,"₹2,200 for two",12.1 km,"Rau, Indore",Indore
+Rajput Dhaba,North Indian,2.9,₹300 for two,12.7 km,"Rau, Indore",Indore
+Madni Hotel,"North Indian, Mughlai, Chinese, Biryani",3.9,₹500 for two,1.6 km,"Sarwate Bus Stand, Indore",Indore
+Ramesh Masala Dosa,"South Indian, Chinese, Street Food, Juices, Shake",4.1,₹300 for two,2.8 km,"56 Dukan, New Palasia, Indore",Indore
+The Cake Story,"Bakery, Desserts",4.4,₹200 for two,4.2 km,"Old Palasia, Indore",Indore
+Peekaboo Pop - Up Cafe,"Tea, Coffee, Shake, Beverages, Pizza, Burger, Street Food",-,₹400 for two,2.8 km,"New Palasia, Indore",Indore
+Shree Balaji Family Restaurant,"North Indian, Chinese, Beverages, Desserts",-,₹400 for two,7.6 km,"By Pass Road (North), Indore",Indore
+Veerji Malai Chaap Wale,"North Indian, Rolls, Beverages",3.9,₹500 for two,5.1 km,"Vijay Nagar, Indore",Indore
+Cakesmith's Alley,"Bakery, Chinese, Pizza, Sandwich, Pasta, Fast Food, Desserts, Shake",4.5,₹550 for two,5.1 km,"Vijay Nagar, Indore",Indore
+Murliwala Restaurant,"North Indian, Chinese",-,₹300 for two,8.4 km,"Airport Road, Indore",Indore
+"Old Kolkata Roll Club ""Since -1996""","Rolls, Chinese, Sichuan, North Indian",4,₹300 for two,2.8 km,"New Palasia, Indore",Indore
+Murliwala Sweets Restaurant,"Mithai, Chinese, Fast Food",4.2,₹250 for two,5.8 km,"Vijay Nagar, Indore",Indore
+Champaran Meat House,North Indian,3.6,₹400 for two,3.4 km,"Navlakha, Indore",Indore
+Beyond The Flavors,"Pizza, Sandwich, Fast Food, Chinese, Street Food, Shake",-,₹350 for two,9.1 km,"Rajendra Nagar, Indore",Indore
+Taj The Agra Junction,"North Indian, South Indian, Street Food, Desserts, Beverages",4,₹350 for two,6.7 km,"By Pass Road (South), Indore",Indore
+Celebration Cafe And Restaurant,"North Indian, Fast Food, Beverages",3.7,₹300 for two,5.3 km,"Navlakha, Indore",Indore
+Spice Mantraa,"North Indian, Chinese, Pizza, Beverages",New,₹350 for two,6.4 km,"By Pass Road (North), Indore",Indore
+The Gravity Inn,"North Indian, Chinese",-,₹300 for two,10.1 km,"Rau, Indore",Indore
+Kiev Restro Bar,"North Indian, Chinese, Continental, Seafood, Biryani, Bar Food, Desserts, Beverages",New,"₹1,000 for two",6.9 km,"Vijay Nagar, Indore",Indore
+Hiku Cafe,"Sandwich, Burger, Pizza, Fast Food, Street Food, Desserts, Shake, Beverages",-,₹350 for two,4.3 km,"Bhawar Kuan, Indore",Indore
+The Secret Table,"North Indian, Asian",3.8,"₹1,100 for two",9.4 km,"By Pass Road (North), Indore",Indore
+PFJ - Punjabi Food Junction,"North Indian, Chinese, Pizza, Burger, Rolls, Fast Food, Biryani",4,₹500 for two,4.4 km,"Bhawar Kuan, Indore",Indore
+Uncle Peter's Pancake & Cafe,"Pancake, Waffle, Desserts, French, Sandwich, Fast Food, Shake, Beverages",3.9,₹450 for two,3.2 km,"Geeta Bhavan, Indore",Indore
+Anand Bhojnalay,Rajasthani,4.1,₹250 for two,3.9 km,"Old Palasia, Indore",Indore
+Burger Headquarter,"Burger, Wraps",New,₹300 for two,5.5 km,"Vijay Nagar, Indore",Indore
+99 Thaliwala,North Indian,2.8,₹200 for two,2.9 km,"HIG-LIG, Indore",Indore
+Munch N Mime,"Fast Food, Pizza, Sandwich, Chinese, Street Food, Coffee, Shake, Beverages",New,₹350 for two,2.8 km,"Geeta Bhavan, Indore",Indore
+Atul Sandwich & Cafe,"Sandwich, Fast Food, North Indian, Chinese, Street Food, Shake, Beverages",4.3,₹300 for two,3.6 km,"Old Palasia, Indore",Indore
+Shri Chai Chowk,"Tea, Shake, Beverages, Sandwich, Pizza, Burger, Street Food, Fast Food",New,₹200 for two,4 km,"Sudama Nagar, Indore",Indore
+Saju Chef's Biryani,"Biryani, North Indian, Mughlai",4,₹350 for two,3.9 km,"Old Palasia, Indore",Indore
+The Great Indian Dhaba,"North Indian, Mughlai, Chinese",-,"₹1,000 for two",9.6 km,"Ralamandal, Indore",Indore
+Tadka Family Restaurant,"North Indian, Chinese, Mughlai",3.7,₹600 for two,3.8 km,"Old Palasia, Indore",Indore
+Tealogy,"Tea, Pizza, Sandwich, Burger, Momos, Street Food, Shake, Beverages",New,₹250 for two,2.9 km,"New Palasia, Indore",Indore
+Sugar Bakes - Papaya Tree Hotel,"Bakery, Beverages",4.1,₹400 for two,12.1 km,"Papaya Tree Hotel, Indore",Indore
+Tarang - The Tripti,"North Indian, South Indian, Chinese, Fast Food, Kebab, Desserts, Shake, Beverages",3.6,₹800 for two,5.1 km,"Vijay Nagar, Indore",Indore
+Raju Omlet,"Street Food, North Indian",-,₹200 for two,4.3 km,"Vijay Nagar, Indore",Indore
+साईं कृपा ढाबा,North Indian,-,₹200 for two,10.4 km,"Rau, Indore",Indore
+Riddhi Siddhi,"North Indian, South Indian, Chinese, Pizza, Sandwich, Fast Food, Juices, Beverages",3.9,₹700 for two,6.6 km,"By Pass Road (North), Indore",Indore
+Conical Gaufres,"Desserts, Waffle",-,₹200 for two,3.9 km,"Bhawar Kuan, Indore",Indore
+Fauji Mp30 King Dosa House,"South Indian, North Indian, Sandwich",New,₹200 for two,4.3 km,"Vijay Nagar, Indore",Indore
+The Revival,"Sandwich, Pizza, Burger, Fast Food, Street Food, Shake, Coffee, Tea",-,₹200 for two,3.5 km,"Airport Road, Indore",Indore
+Viva Mexico,Mexican,3.9,₹400 for two,2.7 km,"New Palasia, Indore",Indore
+Emotions Bakery,"Bakery, Desserts, Beverages, Street Food",-,₹500 for two,3 km,"New Palasia, Indore",Indore
+Babla Tawa Chicken Center,North Indian,-,₹200 for two,20.7 km,"Mhow, Indore",Indore
+Prashant  Nashta Corner,"North Indian, South Indian, Street Food, Desserts, Beverages",4,₹250 for two,3 km,"Geeta Bhavan, Indore",Indore
